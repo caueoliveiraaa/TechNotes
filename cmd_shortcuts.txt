@@ -1,0 +1,8 @@
+
+---| Virtual environment Python |--
+
+To create a virtual environment:
+python -m venv myenv
+
+To activate the virtual environment:
+myenv\Scripts\activate.bat
