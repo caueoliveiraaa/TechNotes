@@ -1,8 +1,20 @@
 
----| Virtual environment Python |--
+python -m venv <env_name>  -> creates a virtual environment
+<env_name>\Scripts\activate.bat -> activate the virtual environment
 
-To create a virtual environment:
-python -m venv myenv
+echo This is some content > myfile.txt -> creates a new file "myfile.txt" with the text "This is some content"
+the > symbol is used as a redirector to send the output of a command to a file
 
-To activate the virtual environment:
-myenv\Scripts\activate.bat
+notepad myfile.txt -> opens a Notepad with a new or existing file, depending on whether myfile.txt already exists
+
+cd/  ->  returns to parent directory.
+
+type <some_file> -> displays the content of file
+
+dir <folder_name> \s \a -> finds folders and returns paths according to the name <my_folder>
+/s searches for the folder recursively in all subdirectories
+/a displays only the path, without any additional information
+
+tree [drive:][path] [/f] [/a] -> Graphically displays the folder structure of a drive or path.
+/f -> Display the names of the files in each folder.
+/a -> Use ASCII instead of extended characters.
