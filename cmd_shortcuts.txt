@@ -18,3 +18,9 @@ dir <folder_name> \s \a -> finds folders and returns paths according to the name
 tree [drive:][path] [/f] [/a] -> Graphically displays the folder structure of a drive or path.
 /f -> Display the names of the files in each folder.
 /a -> Use ASCII instead of extended characters.
+
+more <file_name> -> is used to display the contents of a text file one screen at a time
+
+rd /s /q <folder_name> -> deletes a folder that is not empty on cmd
+/s (including all subdirectories) 
+/q (quiet mode) 
