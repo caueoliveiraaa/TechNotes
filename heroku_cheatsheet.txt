@@ -1,0 +1,19 @@
+# Logar no servidor do app
+
+    heroku login
+
+# Verificar log de atividade
+
+    heroku logs --tail
+    
+# Criar super user em app
+
+    heroku run python manage.py createsuper user
+
+# Migrar mudanças nos models.py
+
+    heroku run python manage.py migrate
+
+# Subir mudanças
+
+    git push heroku main
