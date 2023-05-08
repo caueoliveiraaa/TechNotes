@@ -2,6 +2,10 @@
 
     heroku login
 
+# Conectar com git
+
+    heroku git:remote -a siteName
+
 # Verificar log de atividade
 
     heroku logs --tail
@@ -17,3 +21,4 @@
 # Subir mudanças
 
     git push heroku main
+
