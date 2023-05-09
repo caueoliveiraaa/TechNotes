@@ -1,24 +1,35 @@
-# Logar no servidor do app
+# Logar no servidor do app:
 
-    heroku login
+    	heroku login
 
-# Conectar com git
+# Logar com credenciais no terminal:
 
-    heroku git:remote -a siteName
+	heroku login -i
 
-# Verificar log de atividade
+# Conectar com git:
 
-    heroku logs --tail
+   	heroku git:remote -a siteName
+
+# Usar Git para clonar repositório Heroku para máquina local:
+
+	heroku git:clone -a app_name
+
+	cd \app_name
+
+# Subir mudanças:
+
+	git push heroku main
+
+# Verificar log de atividades:
+
+   	heroku logs --tail
     
-# Criar super user em app
+# Criar super user em app:
 
-    heroku run python manage.py createsuper user
+  	heroku run python manage.py createsuper user
 
-# Migrar mudanças nos models.py
+# Migrar mudanças nos models.py:
 
-    heroku run python manage.py migrate
+	heroku run python manage.py migrate
 
-# Subir mudanças
-
-    git push heroku main
 
