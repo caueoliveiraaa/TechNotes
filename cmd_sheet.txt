@@ -24,6 +24,9 @@ OBS: the > symbol is used as a redirector to send the output of a command to a f
 
     dir <folder_name> \s \a
 
+# finds files and returns paths according to the name <filename>
+    where /R C:\ filename.ext
+
 /s searches for the folder recursively in all subdirectories
 /a displays only the path, without any additional information
 
