@@ -10,7 +10,7 @@
 
     echo This is some content > myfile.txt
 
-OBS: the > symbol is used as a redirector to send the output of a command to a file
+    OBS: the > symbol is used as a redirector to send the output of a command to a file
 
 # returns to parent directory.
 
@@ -27,15 +27,15 @@ OBS: the > symbol is used as a redirector to send the output of a command to a f
 # finds files and returns paths according to the name <filename>
     where /R C:\ filename.ext
 
-/s searches for the folder recursively in all subdirectories
-/a displays only the path, without any additional information
+    /s searches for the folder recursively in all subdirectories
+    /a displays only the path, without any additional information
 
 #  Graphically displays the folder structure of a drive or path.
 
     tree [drive:][path] [/f] [/a]
 
-/f -> Display the names of the files in each folder.
-/a -> Use ASCII instead of extended characters.
+    /f -> Display the names of the files in each folder.
+    /a -> Use ASCII instead of extended characters.
 
 # is used to display the contents of a text file one screen at a time
 

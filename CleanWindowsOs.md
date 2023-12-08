@@ -1,7 +1,7 @@
-Command Prompt:
+# Command Prompt:
 	ipconfig /flushdns 
 
-win + r:
+# win + r:
 	prefetch  - delete all
 	temp - delete all
 	%temp% - delete all
@@ -10,7 +10,7 @@ win + r:
 	services.msc - Disable what is not being used
 	
 
-win + i:
+# win + i:
 	System / Storage / Storage sense  <-- turn on and ajust automatic cleanup
 	Privacy & security / Diagnostics % feedback / Diagnostic data  <-- turn off
 	Gaming / Game mode  <-- turn on
