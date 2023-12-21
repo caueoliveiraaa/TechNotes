@@ -1,0 +1,209 @@
+1 - C# Full Course = https://www.youtube.com/watch?v=wxznTygnRfQ
+
+2 - Free Foundational C# Certification from Microsoft = https://www.youtube.com/watch?v=6GQAE7iLOhY
+
+B - CMD - Command Prompt Training for IT Professionals (Full Course) = https://www.youtube.com/watch?v=qnXe1gecux8
+
+3 - Industry Level REST API using .NET 6 – Tutorial for Beginners = https://www.youtube.com/watch?v=PmDJIooZjBE
+
+B - 40 Windows Commands you NEED to know = https://www.youtube.com/watch?v=Jfvg3CS1X3A
+
+4 - SQL For Web Developers = https://www.youtube.com/watch?v=KBDSJU3cGkc
+
+5 - Advanced C# – LINQ Tutorial = https://www.youtube.com/watch?v=5l2qA3Pc83M
+
+B - 30 Windows Commands you CAN’T live without = https://www.youtube.com/watch?v=prVHU1fLR20
+
+6 - PostgreSQL Tutorial for Beginners = https://www.youtube.com/watch?v=SpfIwlAYaKk
+
+7 - ASP.NET Core Crash Course - C# App in One Hour = https://www.youtube.com/watch?v=BfEjDD8mWYg
+
+8 - Advanced C# = https://www.youtube.com/watch?v=YT8s-90oDC0&t=49768s
+
+B - (Playlist) Api Test Automation using c# with specflow basics #1 = https://www.youtube.com/watch?v=vvTmPBQlCyI&list=PLSL-dDYxeiJFgh6_hebKlOkgja6igg6Uo
+
+9 - Learn ASP.NET Core MVC (.NET 6) - Full Course = https://www.youtube.com/watch?v=hZ1DASYd9rk
+
+10 - ASP.NET 6 REST API Following CLEAN ARCHITECTURE & DDD = https://www.youtube.com/watch?v=fhM0V2N1GpY&list=PLzYkqgWkHPKBcDIP5gzLfASkQyTdy0t4k
+
+11 - Create a C# Application from Start to Finish = https://www.youtube.com/watch?v=wfWxdh-_k_4
+
+B - (Playlist) #1 - Introduction and getting started with Playwright in C# .NET = https://www.youtube.com/watch?v=5i53YLWD_QI&list=PL6tu16kXT9PoUv6HwexX5LPBzzv7QkI9W
+
+12 - HTML & CSS Full Course for free = https://www.youtube.com/watch?v=HGTJBPNC-Gw
+
+B - SpecFlow Selenium C# Tutorial Full Course 2023 | SpecFlow C# Tutorial = https://www.youtube.com/watch?v=7xPcalwU76c
+
+13 - HTML & CSS Project Tutorial - Build a Recipes Website = https://www.youtube.com/watch?v=-8LTPIJBGwQ
+
+B - Chrome DevTools - Crash Course = https://www.youtube.com/watch?v=gTVpBbFWry8
+
+14 - JavaScript Full Course for free = https://www.youtube.com/watch?v=8dWL3wF_OMw
+
+B - (Playlist) Introduction to Selenium in C# = https://www.youtube.com/watch?v=mluLgBywW0Y&list=PL6tu16kXT9PqKSouJUV6sRVgmcKs-VCqo
+
+15 - JavaScript DOM Manipulation – Full Course for Beginners = https://www.youtube.com/watch?v=5fb2aPlgoys
+
+16 - Clean Code: Variables - Beau teaches JavaScript = https://www.youtube.com/watch?v=b9c5GmmS7ks&list=PLWKjhJtqVAbkK24EaPurzMq0-kw5U9pJh
+
+17 - JavaScript Testing with Jest – Crash Course = https://www.youtube.com/watch?v=IPiUDhwnZxA
+
+18 - Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges = https://www.youtube.com/watch?v=oBt53YbR9Kk
+
+19 - UML Diagrams Full Course (Unified Modeling Language) = https://www.youtube.com/watch?v=WnMQ8HlmeXc
+
+20 - Portfolio Website Tutorial – Frontend Development with HTML, CSS, JavaScript = https://www.youtube.com/watch?v=xV7S8BhIeBo
+
+21 - Data Structures and Algorithms in JavaScript - Full Course for Beginners = ps://www.youtube.com/watch?v=t2CEgPsws3U
+
+22 - Asynchronous JavaScript Course (Async/Await, Promises, Callbacks) = https://www.youtube.com/watch?v=ZYb_ZU8LNxs
+
+23 - Data Structures - Computer Science Course for Beginners = https://www.youtube.com/watch?v=zg9ih6SVACc
+
+24 - Stack Data Structure Tutorial – Solve Coding Challenges = https://www.youtube.com/watch?v=O1KeXo8lE8A
+
+25 - Linked Lists for Technical Interviews - Full Course = https://www.youtube.com/watch?v=Hj_rA0dhr2I
+
+26 - Graph Algorithms for Technical Interviews - Full Course = https://www.youtube.com/watch?v=tWVWeAqZ0WU
+
+27 - Binary Tree Algorithms for Technical Interviews - Full Course = https://www.youtube.com/watch?v=fAAZixBzIAI
+
+28 - JavaScript Recursion Examples | Javascript Recursion Tutorial = https://www.youtube.com/watch?v=Q0alTGQ-lXk&list=PLKexSoOYRHT-iHe1mpRse9dTew7TtShsZ
+
+29 - Git and GitHub for Beginners - Crash Course = https://www.youtube.com/watch?v=RGOj5yH7evk
+
+30 - Prompt Engineering for Web Devs - ChatGPT and Bard Tutorial = https://www.youtube.com/watch?v=ScKCy2udln8
+
+31 - Learn JavaScript by Building 7 Games - Full Course = https://www.youtube.com/watch?v=ec8vSKJuZTk
+
+32 - Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git = https://www.youtube.com/watch?v=Uszj_k0DGsg
+
+33 - Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more = https://www.youtube.com/watch?v=qsTthZi23VE
+
+34 - Git Branches Tutorial = https://www.youtube.com/watch?v=e2IbNHi4uCI
+
+35 - How to Undo Mistakes With Git Using the Command Line = https://www.youtube.com/watch?v=lX9hsdsAeTk
+
+36 - Full HTTP Networking Course – Fetch and REST APIs in JavaScript = https://www.youtube.com/watch?v=2JYT5f2isg4
+
+B - Python API Development - Comprehensive Course for Beginners = https://www.youtube.com/watch?v=0sOvCWFmrtA&t=10s
+
+37 - Learn Typescript = https://www.youtube.com/watch?v=30LWjhZzg50
+
+38 - The Ultimate Vue 3 Tutorial (100% Composition API) = https://www.youtube.com/watch?v=I_xLMmNeLDY
+
+39 - E-commerce Website With Django and Vue Tutorial (Django Rest Framework) = https://www.youtube.com/watch?v=Yg5zkd9nm6w
+
+40 - Code a Google Drive Clone using Laravel and Vue.js – Complete Course = https://www.youtube.com/watch?v=Wn3IPX_ax-0
+
+41 - Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS) = https://www.youtube.com/watch?v=zJSY8tbf_ys
+
+B - DevOps Prerequisites Course - Getting started with DevOps = https://www.youtube.com/watch?v=Wvf0mBNGjXY&list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&index=6
+
+42 - Learn MongoDB in 1 Hour (2023) = https://www.youtube.com/watch?v=c2M-rlkkT5o
+
+43 - Node.js and Express.js - Full Course = https://www.youtube.com/watch?v=Oe421EPjeBE
+
+B - DevOps with GitLab CI Course - Build Pipelines and Deploy to AWS = https://www.youtube.com/watch?v=PGyhBwLyK2U&list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&index=8
+
+44 - Node.js / Express Course - Build 4 Projects = https://www.youtube.com/watch?v=qwfE7fSVaZM
+
+B - Docker Tutorial for Beginners - A Full DevOps Course = https://www.youtube.com/watch?v=fqMOX6JJhGo&list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&index=3
+
+45 - Learn Docker - DevOps with Node.js & Express = https://www.youtube.com/watch?v=9zUHg7xjIqQ
+
+46 - Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB) = https://www.youtube.com/watch?v=nu_pCVPKzTk
+
+B - Kubernetes Course - Full Beginners Tutorial (Containerize Your Apps!) = https://www.youtube.com/watch?v=d6WC5n9G_sM&list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&index=7
+
+47 - Harvard CS50’s Web Programming with Python and JavaScript – Full University Course = https://www.youtube.com/watch?v=vzGllw18DkA
+
+48 - Full-Stack Next.js, TypeScript, and AWS Course – Code a Quote Generator = https://www.youtube.com/watch?v=FRmCxj9K7II
+
+49 - Build 15 JavaScript Projects - Vanilla JavaScript Course = https://www.youtube.com/watch?v=3PHXvlpOkf4
+
+50 - E-Commerce JavaScript Tutorial - Shopping Cart from Scratch = https://www.youtube.com/watch?v=023Psne_-_4
+
+51 - Build a Shopping Cart with JavaScript – Project Tutorial = https://www.youtube.com/watch?v=cT_ZYrS3tKc
+
+52 - Firebase Tutorial for Beginners – Build a Mobile App with HTML, CSS, JavaScript = https://www.youtube.com/watch?v=UFD4SP91tSM
+
+53 - Full Stack Next.js, Typescript, Firebase Tutorial – Google Drive Clone = https://www.youtube.com/watch?v=gwOVynGnDZA
+
+54 - JavaScript Tutorial - Create a Card Game = https://www.youtube.com/watch?v=Bj6lC93JMi0 
+
+55 - Harvard CS50 (2023) – Full Computer Science University Course = https://www.youtube.com/watch?v=LfaMVlDaQ24
+
+56 - Blazor app = https://www.youtube.com/watch?v=sHuuo9L3e5c
+
+57 - User Authentication in Web Apps (Passport.js, Node, Express) = https://www.youtube.com/watch?v=F-sFp_AvHc8
+
+58 - Microsoft Azure Fundamentals Certification Course (AZ-900) = https://www.youtube.com/watch?v=5abffC-K40c
+
+59 - Bun Tutorial – JavaScript Runtime (Node.js Alternative) [Full Course] = https://www.youtube.com/watch?v=eTB0UCDnMQo
+
+60 - Learn Tailwind CSS – Course for Beginners = https://www.youtube.com/watch?v=ft30zcMlFao
+
+61 - Code Tetris: JavaScript Tutorial for Beginners = https://www.youtube.com/watch?v=rAUn1Lom6dw
+
+62 - Beginner JavaScript Project – Snake Game Tutorial = https://www.youtube.com/watch?v=uyhzCBEGaBY
+
+63 - JavaScript Game Development Course for Beginners = https://www.youtube.com/watch?v=GFO_txvwK_c
+
+64 - Create a Platformer Game with JavaScript - Full Tutorial = https://www.youtube.com/watch?v=w-OKdSHRlfA
+
+65 - TypeScript GameDev Tutorial – Create an Arkanoid Game = https://www.youtube.com/watch?v=7bejSTim38A
+
+66 - Build a Virtual World Filled with Self-Driving Cars – JavaScript Tutorial = https://www.youtube.com/watch?v=5iHejdqYIa8
+
+67 - JavaScript GameDev Tutorial – Code an Animated Physics Game [Full Course] = https://www.youtube.com/watch?v=U34l-Xz5ynU
+
+68 - Code a 2D Game Using JavaScript, HTML, and CSS (w/ Free Game Assets) – Tutorial = https://www.youtube.com/watch?v=7BHs1BzA4fs
+
+69 - Learn Bootstrap 5 and SASS by Building a Portfolio Website - Full Course = https://www.youtube.com/watch?v=iJKCj8uAHz8
+
+70 - Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course = https://www.youtube.com/watch?v=gyMwXuJrbJQ
+ 
+71 - Linux Essentials for Ethical Hackers - Full InfoSec Course = https://www.youtube.com/watch?v=1hvVcEhcbLM
+
+72 - Linux for Ethical Hackers (Kali Linux Tutorial) = https://www.youtube.com/watch?v=lZAoFs75_cs&list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu&index=5
+
+73 - C Programming Full Course for free = https://www.youtube.com/watch?v=87SH2Cn0s9A&t=14s
+
+74 - C++ Programming Course - Beginner to Advanced = https://www.youtube.com/watch?v=8jLOx1hD3_o&t=2s
+
+75 - Pointers in C / C++ [Full Course] = https://www.youtube.com/watch?v=zuegQmMdy8M&list=PLWKjhJtqVAbmUE5IqyfGYEYjrZBYzaT4m&index=8
+
+76 - Learn Modern C++ by Building an Audio Plugin (w/ JUCE Framework) = https://www.youtube.com/watch?v=i_Iq4_Kd7Rc&list=PLWKjhJtqVAbmUE5IqyfGYEYjrZBYzaT4m&index=6
+
+77 - (Playlist) Ethical Hacking in 15 Hours - 2023 Edition - Learn to Hack! (Part 1) = https://www.youtube.com/watch?v=3FNYvj2U0HM&list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
