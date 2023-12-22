@@ -1,6 +1,8 @@
-1 - C# Full Course = https://www.youtube.com/watch?v=wxznTygnRfQ
+WEEK ======> 1 - C# Full Course = https://www.youtube.com/watch?v=wxznTygnRfQ
 
 2 - Free Foundational C# Certification from Microsoft = https://www.youtube.com/watch?v=6GQAE7iLOhY
+
+B - Learn Visual Studio 2022 in 45 minutes | Amit Thinks = https://www.youtube.com/watch?v=REG-p_eFNIw
 
 B - CMD - Command Prompt Training for IT Professionals (Full Course) = https://www.youtube.com/watch?v=qnXe1gecux8
 
@@ -16,7 +18,13 @@ B - 30 Windows Commands you CAN’T live without = https://www.youtube.com/watch
 
 6 - PostgreSQL Tutorial for Beginners = https://www.youtube.com/watch?v=SpfIwlAYaKk
 
+B - Windows PowerShell [01] Introduction = https://www.youtube.com/watch?v=TUNNmVeyjW0
+
+B - PowerShell For Beginners Full Course | PowerShell Beginner tutorial Full Course = https://www.youtube.com/watch?v=UVUd9_k9C6A
+
 7 - ASP.NET Core Crash Course - C# App in One Hour = https://www.youtube.com/watch?v=BfEjDD8mWYg
+
+B - Vim Tutorial for Beginners = https://www.youtube.com/watch?v=RZ4p-saaQkc
 
 8 - Advanced C# = https://www.youtube.com/watch?v=YT8s-90oDC0&t=49768s
 
@@ -38,7 +46,9 @@ B - SpecFlow Selenium C# Tutorial Full Course 2023 | SpecFlow C# Tutorial = http
 
 B - Chrome DevTools - Crash Course = https://www.youtube.com/watch?v=gTVpBbFWry8
 
-14 - JavaScript Full Course for free = https://www.youtube.com/watch?v=8dWL3wF_OMw
+B - VS Code Tutorial – Become More Productive = https://www.youtube.com/watch?v=heXQnM99oAI
+
+WEEKEND ======> 14 - JavaScript Full Course for free = https://www.youtube.com/watch?v=8dWL3wF_OMw
 
 B - (Playlist) Introduction to Selenium in C# = https://www.youtube.com/watch?v=mluLgBywW0Y&list=PL6tu16kXT9PqKSouJUV6sRVgmcKs-VCqo
 
@@ -122,6 +132,8 @@ B - Kubernetes Course - Full Beginners Tutorial (Containerize Your Apps!) = http
 
 49 - Build 15 JavaScript Projects - Vanilla JavaScript Course = https://www.youtube.com/watch?v=3PHXvlpOkf4
 
+B - Docker Containers and Kubernetes Fundamentals – Full Hands-On Course = https://www.youtube.com/watch?v=kTp5xUtcalw
+
 50 - E-Commerce JavaScript Tutorial - Shopping Cart from Scratch = https://www.youtube.com/watch?v=023Psne_-_4
 
 51 - Build a Shopping Cart with JavaScript – Project Tutorial = https://www.youtube.com/watch?v=cT_ZYrS3tKc
@@ -178,16 +190,115 @@ B - Kubernetes Course - Full Beginners Tutorial (Containerize Your Apps!) = http
 
 77 - (Playlist) Ethical Hacking in 15 Hours - 2023 Edition - Learn to Hack! (Part 1) = https://www.youtube.com/watch?v=3FNYvj2U0HM&list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47
 
+78 - Learn Rust Programming - Complete Course = https://www.youtube.com/watch?v=BpPEoZW5IiY
 
+79 - Assembly Language Programming with ARM – Full Tutorial for Beginners = https://www.youtube.com/watch?v=gfmRrPjnEw4
 
+B - React Course - Beginner's Tutorial for React JavaScript Library [2022] = https://www.youtube.com/watch?v=bMknfKXIFA8
 
+80 - React & TypeScript - Course for Beginners = https://www.youtube.com/watch?v=FJDVKeh7RJI
 
+81 - Frontend Web Development: In-Depth Project Tutorial (HTML, CSS, JavaScript, TypeScript, React) =  https://www.youtube.com/watch?v=MsnQ5uepIaE
 
+B - React Project Tutorial – Build a Portfolio Website w/ Advanced Animations = https://www.youtube.com/watch?v=bmpI252DmiI
 
+82 - React / Typescript Tutorial - Build a Quiz App = https://www.youtube.com/watch?v=F2JCjVSZlG0
 
+83 - Code 15 React Projects - Complete Course = https://www.youtube.com/watch?v=a_7Z7C_JCyo
 
+84 - Next.js, Tailwind CSS, and MongoDB Project Tutorial – Ticketing App = https://www.youtube.com/watch?v=H0vhkoXljq0
 
+85 - (Playlist) College Algebra – Full Course with Python Code = https://www.youtube.com/watch?v=i7vOAcUo5iA&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v
 
+86 - Harvard CS50’s Introduction to Programming with Python – Full University Course = https://www.youtube.com/watch?v=nLRL_NcnK-4
+
+87 - Network Programming with Python Course = https://www.youtube.com/watch?v=FGdiSJakIS4
+
+88 - Object Oriented Programming with Python = https://www.youtube.com/watch?v=Ej_02ICOIgs
+
+89 - Data Structures and Algorithms in Python = https://www.youtube.com/watch?v=pkYVOmU3MgA
+
+90 - Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn) = https://www.youtube.com/watch?v=r-uOLxNrNk8
+
+91 - Data Analysis with Python Course - Numpy, Pandas, Data Visualization = https://www.youtube.com/watch?v=GPVsHOlRBBI
+
+92 - Pandas & Python for Data Analysis by Example – Full Course for Beginners = https://www.youtube.com/watch?v=gtjxAH8uaP0
+
+93 - OpenCV Course - Full Tutorial with Python = https://www.youtube.com/watch?v=oXlwWbU8l2o
+
+B - Pygame Tutorial for Beginners - Python Game Development Course = https://www.youtube.com/watch?v=FfWpgLFMI7w
+
+94 - Python Platformer Game Tutorial for Beginners = https://www.youtube.com/watch?v=6gLeplbqtqg
+
+95 - Scrapy Course – Python Web Scraping for Beginners = https://www.youtube.com/watch?v=mBoX_JCKZTE
+
+B - Build a Social Media App with Django – Python Web Framework Tutorial = https://www.youtube.com/watch?v=xSUm6iMtREA
+
+96 - Advanced Computer Vision with Python - Full Course = https://www.youtube.com/watch?v=01sAkU_NvOY
+
+97 - Algorithms in Python – Full Course for Beginners = https://www.youtube.com/watch?v=fW_OS3LGB9Q
+ 
+98 - Python + PyTorch + Pygame Reinforcement Learning – Train an AI to Play Snake = https://www.youtube.com/watch?v=L8ypSXwyBds
+
+99 - Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib) = https://www.youtube.com/watch?v=LHBE6Q9XlzI
+
+B- Pong with Python & Pygame – Tutorial = https://www.youtube.com/watch?v=tS8F7_X2qB0
+
+100 - Python Game Development Project Using OOP – Minesweeper Tutorial (w/ Tkinter) = https://www.youtube.com/watch?v=OqbGRZx4xUc
+
+B - How to Build an E-commerce Website with Django and Python = https://www.youtube.com/watch?v=YZvRrldjf1Y
+
+101 - Stardew Valley Game Clone with Python and Pygame – Full Course = https://www.youtube.com/watch?v=R9apl6B_ZgI
+
+102 - Creating Space Invaders in Pygame/Python = https://www.youtube.com/watch?v=o-6pADy5Mdg
+
+103 - Godot Game Development – Crash Course for Beginners = https://www.youtube.com/watch?v=S8lMTwSRoRg
+
+104 - Godot Game Engine Tutorial - Make a 2D Platformer Game = https://www.youtube.com/watch?v=fQXKjmCDkIA&list=PLAeffa77Di97FJR6am3eLpVrf0p1kmOW-
+
+105 - Harvard CS50’s Artificial Intelligence with Python – Full University Course = https://www.youtube.com/watch?v=5NgNicANyqM
+
+106 - Creating a Zelda style game in Python [with some Dark Souls elements] = https://www.youtube.com/watch?v=QU1pPzEGrqw&t=2s
+
+B - Flask Course - Python Web Application Development = https://www.youtube.com/watch?v=Qr4QMBUPxWo
+
+107 - Create a Large Language Model from Scratch with Python – Tutoria = https://www.youtube.com/watch?v=UU1WVnMk4E8
+
+108 - Python Microservices Web App (with React, Django, Flask) - Full Course = https://www.youtube.com/watch?v=0iB5IPoTDts
+
+109 - How Deep Neural Networks Work - Full Course for Beginners = https://www.youtube.com/watch?v=dPWYUELwIdM
+
+110 - Self-Driving Car with JavaScript Course – Neural Networks and Machine Learning = https://www.youtube.com/watch?v=Rs_rAxEsAvI
+
+111 - Build a LinkedIn Clone with React and Firebase – Tutorial = https://www.youtube.com/watch?v=HimR8Xtz17U
+
+112 - Django Project – Code a CRM App Tutorial = https://www.youtube.com/watch?v=t10QcFx7d5k
+
+113 - Machine Learning with Python and Scikit-Learn – Full Course = https://www.youtube.com/watch?v=hDKCxebp88A
+
+114 - Django ChatGPT Clone Tutorial = https://www.youtube.com/watch?v=qrZGfBBlXpk
+
+115 - Learn React by Building an eCommerce Site - Tutorial = https://www.youtube.com/watch?v=1DklrGoAxDE
+
+B - Python TensorFlow for Machine Learning – Neural Network Text Classification Tutorial = https://www.youtube.com/watch?v=VtRLrQ3Ev-U
+
+116 - Learn Django by Building an Online Marketplace – Python Tutorial for Beginners = https://www.youtube.com/watch?v=ZxMB6Njs3ck
+
+117 - TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutoria = https://www.youtube.com/watch?v=tPYj3fFJGjk
+
+118 - Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial = https://www.youtube.com/watch?v=M576WGiDBdQ
+
+119 - Deep Learning for Computer Vision with Python and TensorFlow – Complete Course = https://www.youtube.com/watch?v=IA3WxTTPXqQ
+
+120 - Mojo Programming Language – Full Course for Beginners = https://www.youtube.com/watch?v=5Sm9IVMet9c
+
+121 - MLOps Course – Build Machine Learning Production Grade Projects = https://www.youtube.com/watch?v=-dJPoLm_gtE
+
+122 - PyTorch for Deep Learning & Machine Learning – Full Course = https://www.youtube.com/watch?v=V_xro1bcAuA
+
+123 - Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search = https://www.youtube.com/watch?v=JEBDfGqrAUA
+
+124 - Web Development with Python Tutorial – Flask & Dynamic Database-Driven Web Apps = https://www.youtube.com/watch?v=yBDHkveJUf4
 
 
 
