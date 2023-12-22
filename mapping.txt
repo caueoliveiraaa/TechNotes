@@ -18,6 +18,8 @@ B - 30 Windows Commands you CAN’T live without = https://www.youtube.com/watch
 
 6 - PostgreSQL Tutorial for Beginners = https://www.youtube.com/watch?v=SpfIwlAYaKk
 
+B - LibreOffice Writer - Calendar exercise = https://www.youtube.com/watch?v=BvYa2gRsdLk&list=PLENix-gHJSSduhgG-BzuAv_YxAgCmpha4
+
 B - Windows PowerShell [01] Introduction = https://www.youtube.com/watch?v=TUNNmVeyjW0
 
 B - PowerShell For Beginners Full Course | PowerShell Beginner tutorial Full Course = https://www.youtube.com/watch?v=UVUd9_k9C6A
@@ -31,6 +33,8 @@ B - Vim Tutorial for Beginners = https://www.youtube.com/watch?v=RZ4p-saaQkc
 B - (Playlist) Api Test Automation using c# with specflow basics #1 = https://www.youtube.com/watch?v=vvTmPBQlCyI&list=PLSL-dDYxeiJFgh6_hebKlOkgja6igg6Uo
 
 9 - Learn ASP.NET Core MVC (.NET 6) - Full Course = https://www.youtube.com/watch?v=hZ1DASYd9rk
+
+B - 1 - LibreOffice-Calc, OpenOffice-Calc, Excel Tutorial -- A first Look = https://www.youtube.com/watch?v=HdOLxR_NlrQ&list=PLB6667216F5948B34
 
 10 - ASP.NET 6 REST API Following CLEAN ARCHITECTURE & DDD = https://www.youtube.com/watch?v=fhM0V2N1GpY&list=PLzYkqgWkHPKBcDIP5gzLfASkQyTdy0t4k
 
@@ -299,6 +303,7 @@ B - Python TensorFlow for Machine Learning – Neural Network Text Classificatio
 123 - Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search = https://www.youtube.com/watch?v=JEBDfGqrAUA
 
 124 - Web Development with Python Tutorial – Flask & Dynamic Database-Driven Web Apps = https://www.youtube.com/watch?v=yBDHkveJUf4
+
 
 
 
