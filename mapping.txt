@@ -62,6 +62,8 @@ B - (Playlist) Introduction to Selenium in C# = https://www.youtube.com/watch?v=
 
 17 - JavaScript Testing with Jest – Crash Course = https://www.youtube.com/watch?v=IPiUDhwnZxA
 
+B - Complete YAML Course  = https://www.youtube.com/watch?v=IA90BTozdow
+
 18 - Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges = https://www.youtube.com/watch?v=oBt53YbR9Kk
 
 19 - UML Diagrams Full Course (Unified Modeling Language) = https://www.youtube.com/watch?v=WnMQ8HlmeXc
@@ -303,21 +305,6 @@ B - Python TensorFlow for Machine Learning – Neural Network Text Classificatio
 123 - Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search = https://www.youtube.com/watch?v=JEBDfGqrAUA
 
 124 - Web Development with Python Tutorial – Flask & Dynamic Database-Driven Web Apps = https://www.youtube.com/watch?v=yBDHkveJUf4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
