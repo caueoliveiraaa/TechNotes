@@ -14,7 +14,10 @@
 # JavaScript Testing with Jest – Crash Course - https://www.youtube.com/watch?v=IPiUDhwnZxA
 # Portfolio Website Tutorial – Frontend Development with HTML, CSS, JavaScript = https://www.youtube.com/watch?v=xV7S8BhIeBo
 # Linked Lists for Technical Interviews - Full Course - https://www.youtube.com/watch?v=Hj_rA0dhr2I
+# Postman API Test Automation for Beginners = https://www.youtube.com/watch?v=zp5Jh2FIpF0
 # Full HTTP Networking Course – Fetch and REST APIs in JavaScript = https://www.youtube.com/watch?v=2JYT5f2isg4&t=11s
+# Node.js and Express.js - Full Course = https://www.youtube.com/watch?v=Oe421EPjeBE
+# Node.js / Express Course - Build 4 Projects = https://www.youtube.com/watch?v=qwfE7fSVaZM
 # Binary Tree Algorithms for Technical Interviews - Full Course - https://www.youtube.com/watch?v=fAAZixBzIAI
 # Data Structures and Algorithms in JavaScript - Full Course for Beginners - https://www.youtube.com/watch?v=t2CEgPsws3U
 # Git and GitHub for Beginners - Crash Course - https://www.youtube.com/watch?v=RGOj5yH7evk
@@ -30,6 +33,8 @@
 # Next.js, Tailwind CSS, and MongoDB Project Tutorial – Ticketing App = https://www.youtube.com/watch?v=H0vhkoXljq0
 # Next.js 13 E-Commerce Tutorial (App Router, TypeScript, Deployment, TailwindCSS, Prisma, DaisyUI) = https://www.youtube.com/watch?v=K4ziF0MhbLc
 # Learn Bootstrap 5 and SASS by Building a Portfolio Website - Full Cours = https://www.youtube.com/watch?v=iJKCj8uAHz8&t=8s
+# PERN Stack Course - Build a Yelp clone (Postgres, Express, React, Node.js) = https://www.youtube.com/watch?v=J01rYl9T3BU
+# Python API Development - Comprehensive Course for Beginners = https://www.youtube.com/watch?v=0sOvCWFmrtA&t=1s
 # JavaScript Game Development Course for Beginners - https://www.youtube.com/watch?v=GFO_txvwK_c
 # Code Tetris: JavaScript Tutorial for Beginners - https://www.youtube.com/watch?v=rAUn1Lom6dw
 # JavaScript Tutorial - Create a Card Game - https://www.youtube.com/watch?v=Bj6lC93JMi0 
@@ -41,3 +46,35 @@
 # Harvard CS50 (2023) – Full Computer Science University Course - https://www.youtube.com/watch?v=LfaMVlDaQ24
 # Self-Driving Car with JavaScript Course – Neural Networks and Machine Learning - https://www.youtube.com/watch?v=Rs_rAxEsAvI
 # Build a Virtual World Filled with Self-Driving Cars – JavaScript Tutorial  - https://www.youtube.com/watch?v=5iHejdqYIa8
+# Harvard CS50’s Web Programming with Python and JavaScript = https://www.youtube.com/watch?v=vzGllw18DkA&t=129s
+# Python for Hackers FULL Course | Bug Bounty & Ethical Hacking = https://www.youtube.com/watch?v=XWuP5Yf5ILI&t=28091s
+# Harvard CS50’s Introduction to Programming with Python – Full University Course = https://www.youtube.com/watch?v=nLRL_NcnK-4
+# Data Structures and Algorithms in Python - Full Course for Beginners = https://www.youtube.com/watch?v=pkYVOmU3MgA
+# College Algebra – Full Course with Python Code = https://www.youtube.com/watch?v=i7vOAcUo5iA&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v
+# Data Analysis with Python for Excel Users - Full Course = https://www.youtube.com/watch?v=WcDaZ67TVRo&t=1s
+# Data Analysis with Python Course - Numpy, Pandas, Data Visualization = https://www.youtube.com/watch?v=GPVsHOlRBBI&t=8s
+# Pandas & Python for Data Analysis by Example – Full Course for Beginners = https://www.youtube.com/watch?v=gtjxAH8uaP0
+# Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib) = https://www.youtube.com/watch?v=LHBE6Q9XlzI&t=5s
+# Harvard CS50’s Artificial Intelligence with Python – Full University Course = https://www.youtube.com/watch?v=5NgNicANyqM
+# Machine Learning for Everybody – Full Course = https://www.youtube.com/watch?v=i_LwzRVP7bg
+# Python TensorFlow for Machine Learning – Neural Network Text Classification Tutorial = https://www.youtube.com/watch?v=VtRLrQ3Ev-U
+# TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial = https://www.youtube.com/watch?v=tPYj3fFJGjk
+# Scikit-learn Crash Course - Machine Learning Library for Python = https://www.youtube.com/watch?v=0B5eIE_1vpU
+# Machine Learning with Python and Scikit-Learn – Full Course = https://www.youtube.com/watch?v=hDKCxebp88A
+# Machine Learning Foundations Course – Regression Analysis = https://www.youtube.com/watch?v=2IZKK3pJQjg
+# Practical Deep Learning for Coders - Full Course from fast.ai and Jeremy Howard = https://www.youtube.com/watch?v=0oyCUWLL_fU
+# PyTorch for Deep Learning & Machine Learning – Full Course =  https://www.youtube.com/watch?v=V_xro1bcAuA
+# Advanced Computer Vision with Python - Full Course = https://www.youtube.com/watch?v=01sAkU_NvOY
+# Algorithmic Trading – Machine Learning & Quant Strategies Course with Python = https://www.youtube.com/watch?v=9Y3yaoi9rUQ
+# Code a Snake Game with Python and Pygame Tutorial = https://www.youtube.com/watch?v=8dfePlONtls
+# Python + PyTorch + Pygame Reinforcement Learning – Train an AI to Play Snake = https://www.youtube.com/watch?v=L8ypSXwyBds
+# Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial = https://www.youtube.com/watch?v=qFJeN9V1ZsI
+# Deep Learning for Computer Vision with Python and TensorFlow – Complete Course = https://www.youtube.com/watch?v=IA3WxTTPXqQ
+# Pygame Tutorial for Beginners - Python Game Development Course = https://www.youtube.com/watch?v=FfWpgLFMI7w
+# Python Platformer Game Tutorial for Beginners = https://www.youtube.com/watch?v=6gLeplbqtqg&t=5s
+# Pygame Platformer Tutorial - Full Course = https://www.youtube.com/watch?v=2gABYM5M0ww
+# Stardew Valley Game Clone with Python and Pygame – Full Course = https://www.youtube.com/watch?v=R9apl6B_ZgI
+# Creating a Zelda style game in Python [with some Dark Souls elements] = https://www.youtube.com/watch?v=QU1pPzEGrqw&t=23801s
+# Ethical Hacking in 15 Hours - 2023 Edition - Learn to Hack! (Part 1) = https://www.youtube.com/watch?v=3FNYvj2U0HM&list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47
+
+
