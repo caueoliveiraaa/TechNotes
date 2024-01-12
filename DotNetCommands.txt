@@ -1,1 +1,2 @@
-Create a console app: dotnet new console -o myAppName
+Create a console app: 
+	dotnet new console -o myAppName
