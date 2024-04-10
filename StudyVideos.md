@@ -1,80 +1,105 @@
-# VS Code Tutorial – Become More Productive - https://www.youtube.com/watch?v=heXQnM99oAI
-# Chrome DevTools - Crash Course - https://www.youtube.com/watch?v=gTVpBbFWry8
-# Free Foundational C# Certification from Microsoft – Full Course = https://www.youtube.com/watch?v=6GQAE7iLOhY
-# (Playlist) #1 - Introduction and getting started with Playwright in C# .NET - https://www.youtube.com/watch?v=5i53YLWD_QI&list=PL6tu16kXT9PoUv6HwexX5LPBzzv7QkI9W
-# (Playlist) Introduction to Selenium in C# - https://www.youtube.com/watch?v=mluLgBywW0Y&list=PL6tu16kXT9PqKSouJUV6sRVgmcKs-VCqo
-# SpecFlow Selenium C# Tutorial Full Course 2023 | SpecFlow C# Tutorial - https://www.youtube.com/watch?v=7xPcalwU76c
-# CMD - Command Prompt Training for IT Professionals (Full Course) - https://www.youtube.com/watch?v=qnXe1gecux8
-# 40 Windows Commands you NEED to know - https://www.youtube.com/watch?v=Jfvg3CS1X3A
-# 30 Windows Commands you CAN’T live without - https://www.youtube.com/watch?v=prVHU1fLR20
-# Microsoft Azure Fundamentals Certification Course (AZ-900) - https://www.youtube.com/watch?v=5abffC-K40c
-# Prompt Engineering for Web Devs - ChatGPT and Bard Tutorial - https://www.youtube.com/watch?v=ScKCy2udln8
-# Graph Algorithms for Technical Interviews - Full Course - https://www.youtube.com/watch?v=tWVWeAqZ0WU
-# Clean Code: Variables - Beau teaches JavaScript - https://www.youtube.com/watch?v=b9c5GmmS7ks&list=PLWKjhJtqVAbkK24EaPurzMq0-kw5U9pJh
-# JavaScript Testing with Jest – Crash Course - https://www.youtube.com/watch?v=IPiUDhwnZxA
-# Portfolio Website Tutorial – Frontend Development with HTML, CSS, JavaScript = https://www.youtube.com/watch?v=xV7S8BhIeBo
-# Linked Lists for Technical Interviews - Full Course - https://www.youtube.com/watch?v=Hj_rA0dhr2I
-# Postman API Test Automation for Beginners = https://www.youtube.com/watch?v=zp5Jh2FIpF0
-# Full HTTP Networking Course – Fetch and REST APIs in JavaScript = https://www.youtube.com/watch?v=2JYT5f2isg4&t=11s
-# Node.js and Express.js - Full Course = https://www.youtube.com/watch?v=Oe421EPjeBE
-# Node.js / Express Course - Build 4 Projects = https://www.youtube.com/watch?v=qwfE7fSVaZM
-# Binary Tree Algorithms for Technical Interviews - Full Course - https://www.youtube.com/watch?v=fAAZixBzIAI
-# Data Structures and Algorithms in JavaScript - Full Course for Beginners - https://www.youtube.com/watch?v=t2CEgPsws3U
-# Git and GitHub for Beginners - Crash Course - https://www.youtube.com/watch?v=RGOj5yH7evk
-# APIs for Beginners 2023 - How to use an API (Full Course / Tutorial) = https://www.youtube.com/watch?v=WXsD0ZgxjRw
-# Docker Tutorial for Beginners - A Full DevOps Course - https://www.youtube.com/watch?v=fqMOX6JJhGo&list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&index=3
-# Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git - https://www.youtube.com/watch?v=Uszj_k0DGsg
-# Docker Containers and Kubernetes Fundamentals – Full Hands-On Course - https://www.youtube.com/watch?v=kTp5xUtcalw
-# Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more - https://www.youtube.com/watch?v=qsTthZi23VE
-# Git Branches Tutorial - https://www.youtube.com/watch?v=e2IbNHi4uCI
-# Learn Bootstrap by creating a custom admin theme - Intermediate Tutorial = https://youtube.com/watch?v=RyTRgQ7k6QE&t=4s
-# How to Undo Mistakes With Git Using the Command Line - https://www.youtube.com/watch?v=lX9hsdsAeTk
-# UML Diagrams Full Course (Unified Modeling Language) - https://www.youtube.com/watch?v=WnMQ8HlmeXc
-# Next.js, Tailwind CSS, and MongoDB Project Tutorial – Ticketing App = https://www.youtube.com/watch?v=H0vhkoXljq0
-# Next.js 13 E-Commerce Tutorial (App Router, TypeScript, Deployment, TailwindCSS, Prisma, DaisyUI) = https://www.youtube.com/watch?v=K4ziF0MhbLc
-# Learn Bootstrap 5 and SASS by Building a Portfolio Website - Full Cours = https://www.youtube.com/watch?v=iJKCj8uAHz8&t=8s
-# PERN Stack Course - Build a Yelp clone (Postgres, Express, React, Node.js) = https://www.youtube.com/watch?v=J01rYl9T3BU
-# Python API Development - Comprehensive Course for Beginners = https://www.youtube.com/watch?v=0sOvCWFmrtA&t=1s
-# JavaScript Game Development Course for Beginners - https://www.youtube.com/watch?v=GFO_txvwK_c
-# Code Tetris: JavaScript Tutorial for Beginners - https://www.youtube.com/watch?v=rAUn1Lom6dw
-# JavaScript Tutorial - Create a Card Game - https://www.youtube.com/watch?v=Bj6lC93JMi0 
-# Create a Platformer Game with JavaScript - Full Tutorial - https://www.youtube.com/watch?v=w-OKdSHRlfA
-# Beginner JavaScript Project – Snake Game Tutorial - https://www.youtube.com/watch?v=uyhzCBEGaBY
-# JavaScript GameDev Tutorial – Code an Animated Physics Game [Full Course] - https://www.youtube.com/watch?v=U34l-Xz5ynU
-# Code a 2D Game Using JavaScript, HTML, and CSS (w/ Free Game Assets) – Tutorial - https://www.youtube.com/watch?v=7BHs1BzA4fs
-# TypeScript GameDev Tutorial – Create an Arkanoid Game - https://www.youtube.com/watch?v=7bejSTim38A
-# Harvard CS50 (2023) – Full Computer Science University Course - https://www.youtube.com/watch?v=LfaMVlDaQ24
-# Self-Driving Car with JavaScript Course – Neural Networks and Machine Learning - https://www.youtube.com/watch?v=Rs_rAxEsAvI
-# Build a Virtual World Filled with Self-Driving Cars – JavaScript Tutorial  - https://www.youtube.com/watch?v=5iHejdqYIa8
-# Harvard CS50’s Web Programming with Python and JavaScript = https://www.youtube.com/watch?v=vzGllw18DkA&t=129s
-# Python for Hackers FULL Course | Bug Bounty & Ethical Hacking = https://www.youtube.com/watch?v=XWuP5Yf5ILI&t=28091s
-# Harvard CS50’s Introduction to Programming with Python – Full University Course = https://www.youtube.com/watch?v=nLRL_NcnK-4
-# Data Structures and Algorithms in Python - Full Course for Beginners = https://www.youtube.com/watch?v=pkYVOmU3MgA
-# College Algebra – Full Course with Python Code = https://www.youtube.com/watch?v=i7vOAcUo5iA&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v
-# Data Analysis with Python for Excel Users - Full Course = https://www.youtube.com/watch?v=WcDaZ67TVRo&t=1s
-# Data Analysis with Python Course - Numpy, Pandas, Data Visualization = https://www.youtube.com/watch?v=GPVsHOlRBBI&t=8s
-# Pandas & Python for Data Analysis by Example – Full Course for Beginners = https://www.youtube.com/watch?v=gtjxAH8uaP0
-# Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib) = https://www.youtube.com/watch?v=LHBE6Q9XlzI&t=5s
-# Harvard CS50’s Artificial Intelligence with Python – Full University Course = https://www.youtube.com/watch?v=5NgNicANyqM
-# Machine Learning for Everybody – Full Course = https://www.youtube.com/watch?v=i_LwzRVP7bg
-# Python TensorFlow for Machine Learning – Neural Network Text Classification Tutorial = https://www.youtube.com/watch?v=VtRLrQ3Ev-U
-# TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial = https://www.youtube.com/watch?v=tPYj3fFJGjk
-# Scikit-learn Crash Course - Machine Learning Library for Python = https://www.youtube.com/watch?v=0B5eIE_1vpU
-# Machine Learning with Python and Scikit-Learn – Full Course = https://www.youtube.com/watch?v=hDKCxebp88A
-# Machine Learning Foundations Course – Regression Analysis = https://www.youtube.com/watch?v=2IZKK3pJQjg
-# Practical Deep Learning for Coders - Full Course from fast.ai and Jeremy Howard = https://www.youtube.com/watch?v=0oyCUWLL_fU
-# PyTorch for Deep Learning & Machine Learning – Full Course =  https://www.youtube.com/watch?v=V_xro1bcAuA
-# Advanced Computer Vision with Python - Full Course = https://www.youtube.com/watch?v=01sAkU_NvOY
-# Algorithmic Trading – Machine Learning & Quant Strategies Course with Python = https://www.youtube.com/watch?v=9Y3yaoi9rUQ
-# Code a Snake Game with Python and Pygame Tutorial = https://www.youtube.com/watch?v=8dfePlONtls
-# Python + PyTorch + Pygame Reinforcement Learning – Train an AI to Play Snake = https://www.youtube.com/watch?v=L8ypSXwyBds
-# Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial = https://www.youtube.com/watch?v=qFJeN9V1ZsI
-# Deep Learning for Computer Vision with Python and TensorFlow – Complete Course = https://www.youtube.com/watch?v=IA3WxTTPXqQ
-# Pygame Tutorial for Beginners - Python Game Development Course = https://www.youtube.com/watch?v=FfWpgLFMI7w
-# Python Platformer Game Tutorial for Beginners = https://www.youtube.com/watch?v=6gLeplbqtqg&t=5s
-# Pygame Platformer Tutorial - Full Course = https://www.youtube.com/watch?v=2gABYM5M0ww
-# Stardew Valley Game Clone with Python and Pygame – Full Course = https://www.youtube.com/watch?v=R9apl6B_ZgI
-# Creating a Zelda style game in Python [with some Dark Souls elements] = https://www.youtube.com/watch?v=QU1pPzEGrqw&t=23801s
-# Ethical Hacking in 15 Hours - 2023 Edition - Learn to Hack! (Part 1) = https://www.youtube.com/watch?v=3FNYvj2U0HM&list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47
-
-
+# **NOTES**:
+- Create a follow a set of rules based on conventions and good pratices to review and create projects
+- Start with docker, draw.io and break down the app into goals and add good documentation
+- Improve upon the existing projects with more features (Refactoring)
+- Create two projects after every single tutorial
+----
+# PYTHON + CONVENTIONS:
+- (COURSE) Padrões de Projeto (Design Patterns) com Python
+- Write Python Code Properly!: https://www.youtube.com/watch?v=D4_s3q038I0
+- Uncle Bob’s SOLID Principles Made Easy - In Python! = https://www.youtube.com/watch?v=pTB30aXS77U
+- Orientação a Objetos em Python - SOLID (S) - Responsabilidade Única = https://www.youtube.com/watch?v=CM-JPix8hcI&list=PLAgbpJQADBGJO32XIkbapOSKfHFjM4H9c&index=1
+- Python Coding Conventions You Really Should Follow: https://www.youtube.com/watch?v=U2vDWc5sce0
+- 14.3 - Object Life Cycle - Using Databases with Python:  https://www.youtube.com/watch?v=vNtWmELZgAY 
+- How To Write Cleaner Code - A Practical Example = https://www.youtube.com/watch?v=F14BKKHeAKU
+- Debugging 101: Replace print() with icecream ic(): https://www.youtube.com/watch?v=JJ9zZ8cyaEk
+- Modern Python logging: https://www.youtube.com/watch?v=9L77QExPmI0
+- (COURSE) Programação Concorrente e Assíncrona com Python
+- Orientação a Objetos em Python - Injeção de Dependência = https://www.youtube.com/watch?v=aZH5bRvRDyk
+- Dependency INVERSION vs Dependency INJECTION in Python = https://www.youtube.com/watch?v=2ejbLVkCndI
+- Stateful vs Stateless Applications:  https://www.youtube.com/watch?v=UQ2cfQV5nJ4 
+- Examples of Stateful vs Stateless web applications with Python:  https://www.youtube.com/watch?v=nhwZn6v5vT0 
+- Domain-Driven Design (DDD) Patterns in Python:  https://www.youtube.com/watch?v=lVmVLjrbock 
+- SOLID e DDD na prática:  https://www.youtube.com/watch?v=oKpZvWWning 
+- 10 Python Comprehensions You SHOULD Be Using: https://www.youtube.com/watch?v=twxE0dEp3qQ
+- Python Generators Explained: https://www.youtube.com/watch?v=u3T7hmLthUU
+- Make Your Python Code More Professional = https://www.youtube.com/watch?v=PDqy1HoA3QM 
+- 10 Python Shortcuts You Need To Know: https://www.youtube.com/watch?v=CssrFJGH_dU
+- Reflection in Python | Python Reflection:  https://www.youtube.com/watch?v=96aBIKUmbpo 
+- Introspection and Reflection in Python:  https://www.youtube.com/watch?v=-6IgMJgbh64 
+- PLEASE Use These 5 Python Decorators: https://www.youtube.com/watch?v=JgxCY-tbWHA
+- Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex): https://www.youtube.com/watch?v=K8L6KVGG-7o 
+- Magic Methods & Dunder - Advanced Python Tutorial #1 = https://www.youtube.com/watch?v=KSiRzuSx120&list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc
+- (PLAYLIST) Clean Architecture Python (Remake) - 1 Introdução = https://www.youtube.com/watch?v=2nvbgwFE_0Y&list=PLAgbpJQADBGK0opZ8ZuDX3zDjQck_QKMy&index=1
+- (Playlist) Expert Python Tutorial #1 - Overview of Python & How it Works: https://www.youtube.com/watch?v=mclfteWlT2Q&list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP
+----
+# FASTAPI + LINUX + APIS + DOCKER + CMD + GO:
+- (Course) REST APIs with Flask and Python in 2024
+- FastAPI Course for Beginners = https://www.youtube.com/watch?v=tLKKmouUams
+- Postman API Test Automation for Beginners = https://www.youtube.com/watch?v=zp5Jh2FIpF0
+- Building A Simple REST API with FastAPI in Python = https://www.youtube.com/watch?v=VSQZl43jFzk
+- Chrome DevTools - Crash Course - https://www.youtube.com/watch?v=gTVpBbFWry8
+- Pytest Tutorial – How to Test Python Code = https://www.youtube.com/watch?v=cHYq1MRoyI0&t=3s
+- Microservices with FastAPI – Full Course: https://www.youtube.com/watch?v=Cy9fAvsXGZA
+- Linux For Beginners - Full Course: https://www.youtube.com/watch?v=pkZEKIXe3u4
+- Docker Tutorial for Beginners - A Full DevOps Course - https://www.youtube.com/watch?v=fqMOX6JJhGo&list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&index=3
+- Python REST API Tutorial - Building a Flask REST API: https://www.youtube.com/watch?v=GMppyAPbLYk
+- Data Structures For Python Developers (w/ Flask) - Course: https://www.youtube.com/watch?v=74NW-84BqbA
+- Tutorial Git Para Profissionais: https://www.youtube.com/watch?v=Uszj_k0DGsg
+- CMD - Command Prompt Training for IT Professionals (Full Course) - https://www.youtube.com/watch?v=qnXe1gecux8
+- Bash Scripting Tutorial for Beginners: https://www.youtube.com/watch?v=tK9Oc6AEnR4
+- 40 Windows Commands you NEED to know - https://www.youtube.com/watch?v=Jfvg3CS1X3A
+- 30 Windows Commands you CAN’T live without - https://www.youtube.com/watch?v=prVHU1fLR20
+- Go Programming – Golang Course with Bonus Projects: https://www.youtube.com/watch?v=un6ZyFkqFKo
+- Go API Tutorial - Make An API With Go: https://www.youtube.com/watch?v=bj77B59nkTQ
+- Learn Go Programming by Building 11 Projects – Full Course: https://www.youtube.com/watch?v=jFfo23yIWac
+----
+# Git + JS + EXERCISES:
+- (COURSE) Curso de JavaScript e TypeScript do básico ao avançado JS/TS
+- Learn JavaScript With This ONE Project!:  https://www.youtube.com/watch?v=E3XxeE7NF30
+- Portfolio Website Tutorial – Frontend Development with HTML, CSS, JavaScript: https://www.youtube.com/watch?v=xV7S8BhIeBo
+- Learn JavaScript With These 4 Projects!: https://www.youtube.com/watch?v=ZIw7QGVwaNI
+- Full HTTP Networking Course – Fetch and REST APIs in JavaScript: https://www.youtube.com/watch?v=2JYT5f2isg4
+- Computer Networking Tutorial - Bits and Bytes of the Networking [12 HOURS]: https://www.youtube.com/watch?v=PhjHXeMNpp8
+- Event-Driven Architecture with React and FastAPI – Full Course: https://www.youtube.com/watch?v=NVvIpqmf_Xc
+- Python API Development - Comprehensive Course for Beginners = https://www.youtube.com/watch?v=0sOvCWFmrtA&t=1s
+- Recursion in Programming - Full Course: https://www.youtube.com/watch?v=IJDJ0kBx2LM
+- Stack Data Structure Tutorial – Solve Coding Challenges: https://www.youtube.com/watch?v=O1KeXo8lE8A
+- Greedy Algorithms Tutorial – Solve Coding Challenges: https://www.youtube.com/watch?v=bC7o8P_Ste4
+- Linked Lists for Technical Interviews - Full Course: https://www.youtube.com/watch?v=Hj_rA0dhr2I
+- Graph Algorithms for Technical Interviews - Full Course: https://www.youtube.com/watch?v=tWVWeAqZ0WU
+- Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges: https://www.youtube.com/watch?v=oBt53YbR9Kk
+- Binary Tree Algorithms for Technical Interviews - Full Course: https://www.youtube.com/watch?v=fAAZixBzIAI
+- Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges: https://www.youtube.com/watch?v=oBt53YbR9Kk&t=11096s
+- Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more - https://www.youtube.com/watch?v=qsTthZi23VE
+- Python + JavaScript - Full Stack App Tutorial: https://www.youtube.com/watch?v=PppslXOR7TA
+----
+# FULLSTACK JS / Python + GIT + SQL:
+- (COURSE) Complete Vue Developer Bootcamp (Pinia, Vitest)
+- Node.js and Express.js - Full Course: https://www.youtube.com/watch?v=Oe421EPjeBE
+- Learn MongoDB in 1 Hour 🍃 (2023): https://www.youtube.com/watch?v=c2M-rlkkT5o
+- CRUD API Tutorial – Node, Express, MongoDB: https://www.youtube.com/watch?v=_7UQPve99r4
+- Node.js / Express Course - Build 4 Projects: https://www.youtube.com/watch?v=qwfE7fSVaZM
+- Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB): https://www.youtube.com/watch?v=nu_pCVPKzTk
+- Build 25 React Projects – Tutorial: https://www.youtube.com/watch?v=5ZdHfJVAY-s
+- Beginner Web Dev Project Tutorial – Weather App with Next.js, Tailwind CSS, and TypeScript: https://www.youtube.com/watch?v=KkC_wYM_Co4
+- (COURSE) PostgreSQL Bootcamp : Go From Beginner to Advanced, 60+hours
+- SQLite Databases With Python - Full Course = https://www.youtube.com/watch?v=byHcYRpMgI4&t=3s
+- (COURSE) Web Developer Bootcamp with Flask and Python in 2023
+- Python Website Full Tutorial - Flask, Authentication, Databases & More: https://www.youtube.com/watch?v=dam0GPOAvVI
+- Microservice Architecture and System Design with Python & Kubernetes – Full Course: https://www.youtube.com/watch?v=hmkF77F9TLw
+- Git Branches Tutorial - https://www.youtube.com/watch?v=e2IbNHi4uCI
+- How to Undo Mistakes With Git Using the Command Line - https://www.youtube.com/watch?v=lX9hsdsAeTk
+- (COURSE) The Complete Python & PostgreSQL Developer Course
+----
+# DJANGO + REACT:
+- Django REST Framework Course – Build Web APIs with Python: https://www.youtube.com/watch?v=tujhGdn1EMI 
+- E-commerce Website With Django and Vue Tutorial (Django Rest Framework): https://www.youtube.com/watch?v=Yg5zkd9nm6w
+- (COURSE) Python and Django Full Stack Web Developer Bootcamp
+- Django Project – Code a CRM App Tutorial: https://www.youtube.com/watch?v=t10QcFx7d5k
+- Python Microservices Web App (with React, Django, Flask) - Full Course: https://www.youtube.com/watch?v=0iB5IPoTDts
+- Python Django and Google APIs - Project Tutorial: https://www.youtube.com/watch?v=_vCT42vDfgw
+- Django / Tailwind Tutorial - Code a Netflix Clone: https://www.youtube.com/watch?v=gbyYXgiSgdM
+- Learn NestJS – Complete Course: https://www.youtube.com/watch?v=sFnAHC9lLaw
+- React and Golang JWT Authentication - Tutorial: https://www.youtube.com/watch?v=d4Y2DkKbxM0&list=PLXE2Bj4edhg5smoGKvb08PXEAbWYYXmOn&index=3
+- Build a Shopping Cart with React and TypeScript - Tutorial : https://www.youtube.com/watch?v=sfmL6bGbiN8
