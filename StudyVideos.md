@@ -103,3 +103,76 @@
 - Learn NestJS – Complete Course: https://www.youtube.com/watch?v=sFnAHC9lLaw
 - React and Golang JWT Authentication - Tutorial: https://www.youtube.com/watch?v=d4Y2DkKbxM0&list=PLXE2Bj4edhg5smoGKvb08PXEAbWYYXmOn&index=3
 - Build a Shopping Cart with React and TypeScript - Tutorial : https://www.youtube.com/watch?v=sfmL6bGbiN8
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# NEW PLAN - TEMP
+
+# FRONTEND BASICS:
+
+- JavaScript Full Course for free (2024) - https://www.youtube.com/watch?v=lfmg-EJ8gm4&t=10s
+- Chrome DevTools - Crash Course - https://www.youtube.com/watch?v=gTVpBbFWry8
+- (COURSE) Complete Vue Developer Bootcamp (Pinia, Vitest)
+- E-commerce Website With Django and Vue Tutorial (Django Rest Framework): https://www.youtube.com/watch?v=Yg5zkd9nm6w
+- Learn JavaScript With This ONE Project!:  https://www.youtube.com/watch?v=E3XxeE7NF30
+- Portfolio Website Tutorial – Frontend Development with HTML, CSS, JavaScript: https://www.youtube.com/watch?v=xV7S8BhIeBo
+- Learn JavaScript With These 4 Projects!: https://www.youtube.com/watch?v=ZIw7QGVwaNI
+- (COURSE) Curso de JavaScript e TypeScript do básico ao avançado JS/TS
+- Full HTTP Networking Course – Fetch and REST APIs in JavaScript: https://www.youtube.com/watch?v=2JYT5f2isg4
+- Build a Shopping Cart with React and TypeScript - Tutorial : https://www.youtube.com/watch?v=sfmL6bGbiN8
+- Computer Networking Tutorial - Bits and Bytes of the Networking [12 HOURS]: https://www.youtube.com/watch?v=PhjHXeMNpp8
+
+# BACKEND BASICS:   
+
+- Docker Tutorial for Beginners - A Full DevOps Course - https://www.youtube.com/watch?v=fqMOX6JJhGo&list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&index=3
+- (COURSE) Padrões de Projeto (Design Patterns) com Python
+- Uncle Bob’s SOLID Principles Made Easy - In Python! = https://www.youtube.com/watch?v=pTB30aXS77U
+- Orientação a Objetos em Python - SOLID (S) - Responsabilidade Única = https://www.youtube.com/watch?v=CM-JPix8hcI&list=PLAgbpJQADBGJO32XIkbapOSKfHFjM4H9c&index=1
+- 14.3 - Object Life Cycle - Using Databases with Python:  https://www.youtube.com/watch?v=vNtWmELZgAY 
+- How To Write Cleaner Code - A Practical Example = https://www.youtube.com/watch?v=F14BKKHeAKU
+- (COURSE) Programação Concorrente e Assíncrona com Python
+- Dependency INVERSION vs Dependency INJECTION in Python = https://www.youtube.com/watch?v=2ejbLVkCndI
+- Stateful vs Stateless Applications:  https://www.youtube.com/watch?v=UQ2cfQV5nJ4 
+- Examples of Stateful vs Stateless web applications with Python:  https://www.youtube.com/watch?v=nhwZn6v5vT0 
+- Domain-Driven Design (DDD) Patterns in Python:  https://www.youtube.com/watch?v=lVmVLjrbock 
+- SOLID e DDD na prática:  https://www.youtube.com/watch?v=oKpZvWWning 
+- Reflection in Python | Python Reflection:  https://www.youtube.com/watch?v=96aBIKUmbpo 
+- Introspection and Reflection in Python:  https://www.youtube.com/watch?v=-6IgMJgbh64 
+- (PLAYLIST) Clean Architecture Python (Remake) - 1 Introdução = https://www.youtube.com/watch?v=2nvbgwFE_0Y&list=PLAgbpJQADBGK0opZ8ZuDX3zDjQck_QKMy&index=1
+- Linux For Beginners - Full Course: https://www.youtube.com/watch?v=pkZEKIXe3u4
+
+# IMPROVEMENTS:
+
+- Recursion in Programming - Full Course: https://www.youtube.com/watch?v=IJDJ0kBx2LM
+- Stack Data Structure Tutorial – Solve Coding Challenges: https://www.youtube.com/watch?v=O1KeXo8lE8A
+- Greedy Algorithms Tutorial – Solve Coding Challenges: https://www.youtube.com/watch?v=bC7o8P_Ste4
+- Linked Lists for Technical Interviews - Full Course: https://www.youtube.com/watch?v=Hj_rA0dhr2I
+- Graph Algorithms for Technical Interviews - Full Course: https://www.youtube.com/watch?v=tWVWeAqZ0WU
+- Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges: https://www.youtube.com/watch?v=oBt53YbR9Kk
+- Binary Tree Algorithms for Technical Interviews - Full Course: https://www.youtube.com/watch?v=fAAZixBzIAI
+- Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges: https://www.youtube.com/watch?v=oBt53YbR9Kk&t=11096s
+- Postman API Test Automation for Beginners = https://www.youtube.com/watch?v=zp5Jh2FIpF0
+- (Course) REST APIs with Flask and Python in 2024
+- (COURSE) PostgreSQL Bootcamp : Go From Beginner to Advanced, 60+hours
+- (COURSE) The Complete Python & PostgreSQL Developer Course
+
+# BACKEND/FRONTEND - MOVING FORWARD
+
+- Data Structures For Python Developers (w/ Flask) - Course: https://www.youtube.com/watch?v=74NW-84BqbA
+- Tutorial Git Para Profissionais: https://www.youtube.com/watch?v=Uszj_k0DGsg
+- CMD - Command Prompt Training for IT Professionals (Full Course) - https://www.youtube.com/watch?v=qnXe1gecux8
+- Bash Scripting Tutorial for Beginners: https://www.youtube.com/watch?v=tK9Oc6AEnR4
+- 40 Windows Commands you NEED to know - https://www.youtube.com/watch?v=Jfvg3CS1X3A
+- 30 Windows Commands you CAN’T live without - https://www.youtube.com/watch?v=prVHU1fLR20
+- Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more - https://www.youtube.com/watch?v=qsTthZi23VE
+- Python API Development - Comprehensive Course for Beginners = https://www.youtube.com/watch?v=0sOvCWFmrtA&t=1s
+- Git Branches Tutorial - https://www.youtube.com/watch?v=e2IbNHi4uCI
+- How to Undo Mistakes With Git Using the Command Line - https://www.youtube.com/watch?v=lX9hsdsAeTk
+- Node.js and Express.js - Full Course: https://www.youtube.com/watch?v=Oe421EPjeBE
+- Learn MongoDB in 1 Hour 🍃 (2023): https://www.youtube.com/watch?v=c2M-rlkkT5o
+- CRUD API Tutorial – Node, Express, MongoDB: https://www.youtube.com/watch?v=_7UQPve99r4
+- Node.js / Express Course - Build 4 Projects: https://www.youtube.com/watch?v=qwfE7fSVaZM
+- Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB): https://www.youtube.com/watch?v=nu_pCVPKzTk
