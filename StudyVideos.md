@@ -107,10 +107,9 @@
 
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# NEW PLAN - TEMP
 
+# -------------------------------------
 # FRONTEND BASICS:
 
 - JavaScript Full Course for free (2024) - https://www.youtube.com/watch?v=lfmg-EJ8gm4&t=10s
@@ -127,7 +126,7 @@
 - Build a Shopping Cart with React and TypeScript - Tutorial : https://www.youtube.com/watch?v=sfmL6bGbiN8
 - Computer Networking Tutorial - Bits and Bytes of the Networking [12 HOURS]: https://www.youtube.com/watch?v=PhjHXeMNpp8
 
-# BACKEND BASICS:   
+# BACKEND BASICS:
 
 - (COURSE) Padrões de Projeto (Design Patterns) com Python
 - Uncle Bob’s SOLID Principles Made Easy - In Python! = https://www.youtube.com/watch?v=pTB30aXS77U
