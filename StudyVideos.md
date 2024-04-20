@@ -120,18 +120,20 @@
 - Learn JavaScript With This ONE Project!:  https://www.youtube.com/watch?v=E3XxeE7NF30
 - Portfolio Website Tutorial – Frontend Development with HTML, CSS, JavaScript: https://www.youtube.com/watch?v=xV7S8BhIeBo
 - Learn JavaScript With These 4 Projects!: https://www.youtube.com/watch?v=ZIw7QGVwaNI
+- Frontend Development Course - Create a Blog with HTML & CSS - https://www.youtube.com/watch?v=Aj7HLsJenVg
 - (COURSE) Curso de JavaScript e TypeScript do básico ao avançado JS/TS
 - Full HTTP Networking Course – Fetch and REST APIs in JavaScript: https://www.youtube.com/watch?v=2JYT5f2isg4
+- React Project Tutorial – Build a Portfolio Website w/ Advanced Animations - https://www.youtube.com/watch?v=bmpI252DmiI
 - Build a Shopping Cart with React and TypeScript - Tutorial : https://www.youtube.com/watch?v=sfmL6bGbiN8
 - Computer Networking Tutorial - Bits and Bytes of the Networking [12 HOURS]: https://www.youtube.com/watch?v=PhjHXeMNpp8
 
 # BACKEND BASICS:   
 
-- Docker Tutorial for Beginners - A Full DevOps Course - https://www.youtube.com/watch?v=fqMOX6JJhGo&list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&index=3
 - (COURSE) Padrões de Projeto (Design Patterns) com Python
 - Uncle Bob’s SOLID Principles Made Easy - In Python! = https://www.youtube.com/watch?v=pTB30aXS77U
 - Orientação a Objetos em Python - SOLID (S) - Responsabilidade Única = https://www.youtube.com/watch?v=CM-JPix8hcI&list=PLAgbpJQADBGJO32XIkbapOSKfHFjM4H9c&index=1
 - 14.3 - Object Life Cycle - Using Databases with Python:  https://www.youtube.com/watch?v=vNtWmELZgAY 
+- Docker Tutorial for Beginners - A Full DevOqps Course - https://www.youtube.com/watch?v=fqMOX6JJhGo&list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&index=3
 - How To Write Cleaner Code - A Practical Example = https://www.youtube.com/watch?v=F14BKKHeAKU
 - (COURSE) Programação Concorrente e Assíncrona com Python
 - Dependency INVERSION vs Dependency INJECTION in Python = https://www.youtube.com/watch?v=2ejbLVkCndI
@@ -143,6 +145,11 @@
 - Introspection and Reflection in Python:  https://www.youtube.com/watch?v=-6IgMJgbh64 
 - (PLAYLIST) Clean Architecture Python (Remake) - 1 Introdução = https://www.youtube.com/watch?v=2nvbgwFE_0Y&list=PLAgbpJQADBGK0opZ8ZuDX3zDjQck_QKMy&index=1
 - Linux For Beginners - Full Course: https://www.youtube.com/watch?v=pkZEKIXe3u4
+- Node.js and Express.js - Full Course: https://www.youtube.com/watch?v=Oe421EPjeBE
+- Learn MongoDB in 1 Hour 🍃 (2023): https://www.youtube.com/watch?v=c2M-rlkkT5o
+- CRUD API Tutorial – Node, Express, MongoDB: https://www.youtube.com/watch?v=_7UQPve99r4
+- Node.js / Express Course - Build 4 Projects: https://www.youtube.com/watch?v=qwfE7fSVaZM
+- (COURSE) PostgreSQL Bootcamp : Go From Beginner to Advanced, 60+hours
 
 # IMPROVEMENTS:
 
@@ -156,23 +163,38 @@
 - Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges: https://www.youtube.com/watch?v=oBt53YbR9Kk&t=11096s
 - Postman API Test Automation for Beginners = https://www.youtube.com/watch?v=zp5Jh2FIpF0
 - (Course) REST APIs with Flask and Python in 2024
-- (COURSE) PostgreSQL Bootcamp : Go From Beginner to Advanced, 60+hours
-- (COURSE) The Complete Python & PostgreSQL Developer Course
-
-# BACKEND/FRONTEND - MOVING FORWARD
-
 - Data Structures For Python Developers (w/ Flask) - Course: https://www.youtube.com/watch?v=74NW-84BqbA
+- (COURSE) The Complete Python & PostgreSQL Developer Course
 - Tutorial Git Para Profissionais: https://www.youtube.com/watch?v=Uszj_k0DGsg
 - CMD - Command Prompt Training for IT Professionals (Full Course) - https://www.youtube.com/watch?v=qnXe1gecux8
 - Bash Scripting Tutorial for Beginners: https://www.youtube.com/watch?v=tK9Oc6AEnR4
-- 40 Windows Commands you NEED to know - https://www.youtube.com/watch?v=Jfvg3CS1X3A
-- 30 Windows Commands you CAN’T live without - https://www.youtube.com/watch?v=prVHU1fLR20
 - Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more - https://www.youtube.com/watch?v=qsTthZi23VE
-- Python API Development - Comprehensive Course for Beginners = https://www.youtube.com/watch?v=0sOvCWFmrtA&t=1s
+- 40 Windows Commands you NEED to know - https://www.youtube.com/watch?v=Jfvg3CS1X3A
 - Git Branches Tutorial - https://www.youtube.com/watch?v=e2IbNHi4uCI
+- 30 Windows Commands you CAN’T live without - https://www.youtube.com/watch?v=prVHU1fLR20
 - How to Undo Mistakes With Git Using the Command Line - https://www.youtube.com/watch?v=lX9hsdsAeTk
-- Node.js and Express.js - Full Course: https://www.youtube.com/watch?v=Oe421EPjeBE
-- Learn MongoDB in 1 Hour 🍃 (2023): https://www.youtube.com/watch?v=c2M-rlkkT5o
-- CRUD API Tutorial – Node, Express, MongoDB: https://www.youtube.com/watch?v=_7UQPve99r4
-- Node.js / Express Course - Build 4 Projects: https://www.youtube.com/watch?v=qwfE7fSVaZM
+- Python API Development - Comprehensive Course for Beginners = https://www.youtube.com/watch?v=0sOvCWFmrtA&t=1s
+
+# BACKEND/FRONTEND - MOVING FORWARD:
+
+- Java Programming for Beginners – Full Course - https://www.youtube.com/watch?v=A74TOX803D0
+- Dynamic Programming with Java – Learn to Solve Algorithmic Problems & Coding Challenges - https://www.youtube.com/watch?v=oFkDldu3C_4&t=2s
+- Build a Java Desktop Application - Full Course (Sudoku) - https://www.youtube.com/watch?v=qH9mWpYMtYU
+- Functional Programming in Java - Full Course - https://www.youtube.com/watch?v=rPSL1alFIjI&t=3216s
+- Build 25 React Projects – Tutorial - https://www.youtube.com/watch?v=5ZdHfJVAY-s
+- Learn NestJS – Complete Course - https://www.youtube.com/watch?v=sFnAHC9lLaw
+- Beginner Web Dev Project Tutorial – Weather App with Next.js, Tailwind CSS, and TypeScript - https://www.youtube.com/watch?v=KkC_wYM_Co4
 - Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB): https://www.youtube.com/watch?v=nu_pCVPKzTk
+- Full Stack Development with Java Spring Boot, React, and MongoDB – Full Course - https://www.youtube.com/watch?v=5PdEmeopJVQ
+- Build and Deploy a LeetCode Clone with React, Next JS, TypeScript, Tailwind CSS, Firebase - https://www.youtube.com/watch?v=GnodscC2p-A
+- Building web applications in Java with Spring Boot 3 – Tutorial - https://www.youtube.com/watch?v=31KTdfRH6nY&t=2s
+- Next.js 13 E-Commerce Tutorial (App Router, TypeScript, Deployment, TailwindCSS, Prisma, DaisyUI) - https://www.youtube.com/watch?v=K4ziF0MhbLc&t=1s
+- Spring Boot & Spring Data JPA – Complete Course - https://www.youtube.com/watch?v=5rNk7m_zlAg&t=1s
+- Angular for Beginners Course [Full Front End Tutorial with TypeScript] - https://www.youtube.com/watch?v=3qBXWUpoPHo
+- Build a Webshop – Angular, Node.js, TypeScript, Stripe - https://www.youtube.com/watch?v=Kbauf9IgsC4
+- PHP Full Course for non-haters (2023) - https://www.youtube.com/watch?v=zZ6vybT1HQs
+- Use PHP to Create an MVC Framework - Full Course - https://www.youtube.com/watch?v=6ERdu4k62wI
+- MySQL Full Course for free (2023) - https://www.youtube.com/watch?v=5OdVJbNCSso&t=1s
+- Laravel PHP Framework Tutorial - Full Course for Beginners (2019) - https://www.youtube.com/watch?v=ImtZ5yENzgE
+- Code a Google Drive Clone using Laravel and Vue.js – Complete Course - https://www.youtube.com/watch?v=Wn3IPX_ax-0
+- How to Create a Custom WordPress Theme - Full Course - https://www.youtube.com/watch?v=-h7gOJbIpmo
