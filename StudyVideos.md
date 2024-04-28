@@ -6,12 +6,13 @@
 ----
 - (COURSE) Curso de JavaScript e TypeScript do básico ao avançado JS/TS
 - Chrome DevTools - Crash Course - https://www.youtube.com/watch?v=gTVpBbFWry8  
+- Portfolio Website Tutorial – Frontend Development with HTML, CSS, JavaScript: https://www.youtube.com/watch?v=xV7S8BhIeBo
 - (COURSE) Complete Vue Developer Bootcamp (Pinia, Vitest)
 - Full HTTP Networking Course – Fetch and REST APIs in JavaScript: https://www.youtube.com/watch?v=2JYT5f2isg4
 - (COURSE) Programação Concorrente e Assíncrona com Python
 - E-commerce Website With Django and Vue Tutorial (Django Rest Framework): https://www.youtube.com/watch?v=Yg5zkd9nm6w
-- Portfolio Website Tutorial – Frontend Development with HTML, CSS, JavaScript: https://www.youtube.com/watch?v=xV7S8BhIeBo
 - React Project Tutorial – Build a Portfolio Website w/ Advanced Animations - https://www.youtube.com/watch?v=bmpI252DmiI
+
 - Docker Tutorial for Beginners - A Full DevOqps Course - https://www.youtube.com/watch?v=fqMOX6JJhGo&list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&index=3
 - (COURSE) Padrões de Projeto (Design Patterns) com Python
 - (PLAYLIST) Clean Architecture Python (Remake) - 1 Introdução = https://www.youtube.com/watch?v=2nvbgwFE_0Y&list=PLAgbpJQADBGK0opZ8ZuDX3zDjQck_QKMy&index=1
@@ -35,6 +36,7 @@
 - Git Branches Tutorial - https://www.youtube.com/watch?v=e2IbNHi4uCI
 - Node.js / Express Course - Build 4 Projects: https://www.youtube.com/watch?v=qwfE7fSVaZM
 - How to Undo Mistakes With Git Using the Command Line - https://www.youtube.com/watch?v=lX9hsdsAeTk
+
 - Recursion in Programming - Full Course: https://www.youtube.com/watch?v=IJDJ0kBx2LM
 - Stack Data Structure Tutorial – Solve Coding Challenges: https://www.youtube.com/watch?v=O1KeXo8lE8A
 - Greedy Algorithms Tutorial – Solve Coding Challenges: https://www.youtube.com/watch?v=bC7o8P_Ste4
@@ -68,3 +70,4 @@
 - Laravel PHP Framework Tutorial - Full Course for Beginners (2019) - https://www.youtube.com/watch?v=ImtZ5yENzgE
 - Code a Google Drive Clone using Laravel and Vue.js – Complete Course - https://www.youtube.com/watch?v=Wn3IPX_ax-0
 - How to Create a Custom WordPress Theme - Full Course - https://www.youtube.com/watch?v=-h7gOJbIpmo
+    
