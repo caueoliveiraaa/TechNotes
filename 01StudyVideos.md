@@ -1,22 +1,22 @@
 # BASICS (FRONEND):
-- Chrome DevTools - Crash Course - https://www.youtube.com/watch?v=gTVpBbFWry8  
+
 - (COURSE) Curso de JavaScript e TypeScript do básico ao avançado JS/TS
 - Portfolio Website Tutorial – Frontend Development with HTML, CSS, JavaScript: https://www.youtube.com/watch?v=xV7S8BhIeBo
+- React Project Tutorial – Build a Portfolio Website w/ Advanced Animations - https://www.youtube.com/watch?v=bmpI252DmiI
 - (COURSE) Complete Vue Developer Bootcamp (Pinia, Vitest)
 - E-commerce Website With Django and Vue Tutorial (Django Rest Framework): https://www.youtube.com/watch?v=Yg5zkd9nm6w
 - (COURSE) Programação Concorrente e Assíncrona com Python
 - Full HTTP Networking Course – Fetch and REST APIs in JavaScript: https://www.youtube.com/watch?v=2JYT5f2isg4
-- React Project Tutorial – Build a Portfolio Website w/ Advanced Animations - https://www.youtube.com/watch?v=bmpI252DmiI
 - Computer Networking Tutorial - Bits and Bytes of the Networking [12 HOURS]: https://www.youtube.com/watch?v=PhjHXeMNpp8
 
 # FULLSTACK:
 
 - (PLAYLIST) Clean Architecture Python (Remake) - 1 Introdução = https://www.youtube.com/watch?v=2nvbgwFE_0Y&list=PLAgbpJQADBGK0opZ8ZuDX3zDjQck_QKMy&index=1
-- (COURSE) Padrões de Projeto (Design Patterns) com Python
 - Free Foundational C# Certification from Microsoft – Full Course - https://www.youtube.com/watch?v=6GQAE7iLOhY&t=95s
+- (COURSE) Padrões de Projeto (Design Patterns) com Python
 - Learn C# Programming – Full Course with Mini-Projects - https://www.youtube.com/watch?v=YrtFtdTTfv0
-- Advanced C# – LINQ Tutorial - https://www.youtube.com/watch?v=5l2qA3Pc83M
 - CMD - Command Prompt Training for IT Professionals (Full Course) - https://www.youtube.com/watch?v=qnXe1gecux8
+- Advanced C# – LINQ Tutorial - https://www.youtube.com/watch?v=5l2qA3Pc83M
 - Bash Scripting Tutorial for Beginners: https://www.youtube.com/watch?v=tK9Oc6AEnR4
 - 40 Windows Commands you NEED to know - https://www.youtube.com/watch?v=Jfvg3CS1X3A
 - Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more - https://www.youtube.com/watch?v=qsTthZi23VE
@@ -37,6 +37,9 @@
 - ASP.NET Core Tutorial – Full Auction App - https://www.youtube.com/watch?v=nKovSmd5DWY
 - .NET Microservices – Full Course for Beginners - https://www.youtube.com/watch?v=CqCDOosvZIk
 
+
+
+
 # DATA STRUCTURES:
 
 - Data Structures For Python Developers (w/ Flask) - Course: https://www.youtube.com/watch?v=74NW-84BqbA
@@ -50,6 +53,12 @@
 - Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges: https://www.youtube.com/watch?v=oBt53YbR9Kk
 - Binary Tree Algorithms for Technical Interviews - Full Course: https://www.youtube.com/watch?v=fAAZixBzIAI
 - Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges: https://www.youtube.com/watch?v=oBt53YbR9Kk&t=11096s
+
+
+
+
+
+
 
 # OTHERS TOOLS:
 
