@@ -7,6 +7,7 @@ Uncle Bob’s SOLID Principles Made Easy - In Python! = https://www.youtube.com/
 Data Structures For Python Developers (w/ Flask) - Course: https://www.youtube.com/watch?v=74NW-84BqbA
 (Course) Programação Concorrente e Assíncrona com Python
 Dependency INVERSION vs Dependency INJECTION in Python = https://www.youtube.com/watch?v=2ejbLVkCndI
+Object Oriented Programming with Python - Full Course for Beginners: https://www.youtube.com/watch?v=Ej_02ICOIgs
 (PLAYLIST) Clean Architecture Python (Remake) - 1 Introdução = https://www.youtube.com/watch?v=2nvbgwFE_0Y&list=PLAgbpJQADBGK0opZ8ZuDX3zDjQck_QKMy&index=1
 (Course) Padrões de Projeto (Design Patterns) com Python
 SQLite Databases With Python - Full Course = https://www.youtube.com/watch?v=byHcYRpMgI4&t=3s
@@ -55,6 +56,7 @@ How to Undo Mistakes With Git Using the Command Line - https://www.youtube.com/w
 (Course) Web Developer Bootcamp with Flask and Python in 2024
 (Course) PostgreSQL Bootcamp : Go From Beginner to Advanced, 60+hours
 (Course) The Complete Python & PostgreSQL Developer Course
+Python API Development - Comprehensive Course for Beginners = https://www.youtube.com/watch?v=0sOvCWFmrtA&t=1s
 ```
 ## Phase 3 - (AI AND ML + GOLang + Django + JS)
 ```
@@ -76,10 +78,10 @@ Python Microservices Web App (with React, Django, Flask) - Full Course: https://
 Deep Learning for Computer Vision with Python and TensorFlow – Complete Course: https://www.youtube.com/watch?v=IA3WxTTPXqQ&t=1s
 Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB): https://www.youtube.com/watch?v=nu_pCVPKzTk
 Python Django and Google APIs - Project Tutorial: https://www.youtube.com/watch?v=_vCT42vDfgw
-Beginner Web Dev Project Tutorial – Weather App with Next.js, Tailwind CSS, and TypeScript: https://www.youtube.com/watch?v=KkC_wYM_Co4
-Python API Development - Comprehensive Course for Beginners = https://www.youtube.com/watch?v=0sOvCWFmrtA&t=1s
-Django / Tailwind Tutorial - Code a Netflix Clone: https://www.youtube.com/watch?v=gbyYXgiSgdM
 Go Programming – Golang Course with Bonus Projects: https://www.youtube.com/watch?v=un6ZyFkqFKo
+Beginner Web Dev Project Tutorial – Weather App with Next.js, Tailwind CSS, and TypeScript: https://www.youtube.com/watch?v=KkC_wYM_Co4
 Go API Tutorial - Make An API With Go: https://www.youtube.com/watch?v=bj77B59nkTQ
+Distributed File Storage In Go – Full Course: https://www.youtube.com/watch?v=IoY6bE--A54
+Django / Tailwind Tutorial - Code a Netflix Clone: https://www.youtube.com/watch?v=gbyYXgiSgdM
 Learn Go Programming by Building 11 Projects – Full Course: https://www.youtube.com/watch?v=jFfo23yIWac
 ```
