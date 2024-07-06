@@ -52,10 +52,8 @@ Full HTTP Networking Course – Fetch and REST APIs in JavaScript: https://www.y
 Django REST Framework Course – Build Web APIs with Python: https://www.youtube.com/watch?v=tujhGdn1EMI 
 9 HOURS of Python Projects - From Beginner to Advanced: https://www.youtube.com/watch?v=NpmFbWO6HPU&t=31160s
 (Course) PostgreSQL Bootcamp : Go From Beginner to Advanced, 60+hours
-(Course) The Complete Python & PostgreSQL Developer Course
 Python API Development - Comprehensive Course for Beginners = https://www.youtube.com/watch?v=0sOvCWFmrtA&t=1s
-Learn MongoDB in 1 Hour 🍃 (2023): https://www.youtube.com/watch?v=c2M-rlkkT5o
-Node.js and Express.js - Full Course: https://www.youtube.com/watch?v=Oe421EPjeBE
+(Course) The Complete Python & PostgreSQL Developer Course
 CRUD API Tutorial – Node, Express, MongoDB: https://www.youtube.com/watch?v=_7UQPve99r4
 Node.js / Express Course - Build 4 Projects: https://www.youtube.com/watch?v=qwfE7fSVaZM
 Python Microservices Web App (with React, Django, Flask) - Full Course: https://www.youtube.com/watch?v=0iB5IPoTDts
