@@ -13,13 +13,13 @@ SQLite Databases With Python - Full Course = https://www.youtube.com/watch?v=byH
 Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex): https://www.youtube.com/watch?v=K8L6KVGG-7o 
 Python Generators Explained: https://www.youtube.com/watch?v=u3T7hmLthUU
 PLEASE Use These 5 Python Decorators: https://www.youtube.com/watch?v=JgxCY-tbWHA
+Make Your Python Code More Professional = https://www.youtube.com/watch?v=PDqy1HoA3QM 
 (PLAYLIST) Clean Architecture Python (Remake) - 1 Introdução = https://www.youtube.com/watch?v=2nvbgwFE_0Y&list=PLAgbpJQADBGK0opZ8ZuDX3zDjQck_QKMy&index=1
 30 Windows Commands you CAN’T live without - https://www.youtube.com/watch?v=prVHU1fLR20
 (Course) Padrões de Projeto (Design Patterns) com Python
 Pytest Tutorial – How to Test Python Code: https://www.youtube.com/watch?v=cHYq1MRoyI0&t=4s
 Tutorial Git Para Profissionais: https://www.youtube.com/watch?v=Uszj_k0DGsg
 10 Python Comprehensions You SHOULD Be Using: https://www.youtube.com/watch?v=twxE0dEp3qQ
-Make Your Python Code More Professional = https://www.youtube.com/watch?v=PDqy1HoA3QM 
 Linked Lists for Technical Interviews - Full Course: https://www.youtube.com/watch?v=Hj_rA0dhr2I
 Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more - https://www.youtube.com/watch?v=qsTthZi23VE
 10 Python Shortcuts You Need To Know: https://www.youtube.com/watch?v=CssrFJGH_dU
