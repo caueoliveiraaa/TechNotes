@@ -22,10 +22,10 @@ Namespaces are one honking great idea, let's do more of those!
 
 ## Spaces and lenghts:
 
-- The tab width should be 4
-- The Maximum line lenght is 79
-- For long blocks of text such as comments, the maximum lenght is 72
-- No unnecessary white spaces
+- The tab width should be 4 spaces
+- The Maximum line lenght is 79 chars
+- For long blocks of text such as comments, the maximum lenght is 72 chars
+- There should be no unnecessary white spaces
 
 ```python
 def save_message(text):
@@ -34,7 +34,7 @@ def save_message(text):
     pass
 ```
 
-- For manual assingment of parameters, leave spaces:
+- For manual assingment of parameters, use spaces:
 
 ```python
 def send_message(title, body, raise_error = True):
@@ -129,7 +129,7 @@ def send_email(email):
     :param return: bool - result of whether the email is valid
     """
 
-    return validate(email)  # Using this method may affect the performance
+    return validate(email)  # Using this method may affect performance
 ```
 
 ## Naming conventions:
@@ -203,7 +203,7 @@ print(MyClass.increment_class_variable())
 - Private and protected names should have underscores
 
 ```python
-class MyClass:
+class Login:
 
     def __init__(self, password, login):
         _password = password
@@ -220,7 +220,7 @@ PI = 3.141
 
 ## General conventions:
 
-- Use variables directly for if statements when possible
+- Use variables directly in if statements whenever possible
 
 ```python
 # Good 
