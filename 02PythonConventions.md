@@ -337,3 +337,68 @@ class Book:
     def __str__(self):
         return f"Book(title={self.title}, author={self.author}"
 ```
+
+8.5 - Always use dependency injection
+8.6 - a class shouldn't be responsible for creating new objects
+
+```python
+class EmailService:
+
+    def send_email(self, recipient, subject, message):
+        print(f"Sending email to {recipient}: {subject}\n{message}")
+
+
+class NotificationService:
+
+    def __init__(self, email_service: EmailService):
+        self.email_service = email_service
+
+
+    def notify(self, user, message):
+        subject = f"Notification for {user}"
+        self.email_service.send_email(user, subject, message)
+```
+
+## 9 - Python curiosities:
+
+9.1 - Python considers ints narrower than floats. So, using a float in an expression ensures the result will be a float too. However, when doing division, the result will always be a float, even if only integers are used. <br>
+
+```python
+# The int is widened to a float here, and a float type is returned.
+>>> 3 + 4.0
+7.0
+>>> 3 * 4.0
+12.0
+>>> 3 - 2.0
+1.0
+# Division always returns a float.
+>>> 6 / 2
+3.0
+>>> 7 / 4
+1.75
+# Calculating remainders.
+>>> 7 % 4
+3
+>>> 2 % 4
+2
+>>> 12.75 % 3
+0.75
+```
+
+9.2 - If an int result is needed, you can use // to truncate the result.
+
+```python
+>>> 6 // 2
+3
+>>> 7 // 4
+1
+```
+
+9.3 - To convert a float to an integer, you can use int(). Also, to convert an integer to a float, you can use float().
+
+```python
+>>> int(6 / 2)
+3
+>>> float(1 + 2)
+3.0
+```
