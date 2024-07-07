@@ -1,31 +1,31 @@
-# 🐍📚 Python Conventions 🐍📚
+# 🐍📚 Python Conventions 📚🐍
 
-## General rules of PEP8:
+## 1 - General rules of PEP8:
 
+```python
+# 1 - Beautiful is better than ugly.
+# 2 - Explicit is better than implicit.
+# 3 - Simple is better than complex.
+# 4 - Complex is better than complicated.
+# 5 - Flat is better than nested.
+# 6 - Sparse is better than danse.
+# 7 - Readability counts.
+# 8 - Special cases are not special enough to break the rules - (Although # practicality beats purity).
+# 9 - Erros should never pass silently - (Unless explicitly silenced).
+# 10 - In the face of ambiguity, refuse the temptation to guess.
+# 11 - There should be one and preferably only one obvious way to do it - # (Although that way may not be obvious at first unless you are Dutch).
+# 12 - Now is better than never - (Although never is better than *right* now).
+# 13 - If the implementation is hard to explain, it's a bad idea
+# 14 - If the implementation is easy to explain, it might be a good idea.
+# 15 - Namespaces are one honking great idea, let's do more of those!
 ```
-Beautiful is better than ugly.
-Explicit is better than implicit.
-Simple is better than complex.
-Complex is better than complicated.
-Flat is better than nested.
-Sparse is better than danse.
-Readability counts.
-Special cases are not special enough to break the rules - (Although practicality beats purity).
-Erros should never pass silently - (Unless explicitly silenced).
-In the face of ambiguity, refuse the temptation to guess.
-There should be one and preferably only one obvious way to do it - (Although that way may not be obvious at first unless you are Dutch).
-Now is better than never - (Although never is better than *right* now).
-If the implementation is hard to explain, it's a bad idea
-If the implementation is easy to explain, it might be a good idea.
-Namespaces are one honking great idea, let's do more of those!
-```
 
-## Spaces and lenghts:
+## 2 - Using Spaces and lenghts:
 
-- The tab width should be 4 spaces
-- The Maximum line lenght is 79 chars
-- For long blocks of text such as comments, the maximum lenght is 72 chars
-- There should be no unnecessary white spaces
+2.1 - The tab width should be 4 spaces <br>
+2.2 - The Maximum line lenght is 79 chars <br>
+2.3 - For long blocks of text such as comments, the maximum lenght is 72 chars <br>
+2.4 - There should be no unnecessary white spaces <br>
 
 ```python
 def save_message(text):
@@ -34,7 +34,7 @@ def save_message(text):
     pass
 ```
 
-- For manual assingment of parameters, use spaces:
+2.5 - For manual assingment of parameters, use spaces: <br>
 
 ```python
 def send_message(title, body, raise_error = True):
@@ -42,9 +42,9 @@ def send_message(title, body, raise_error = True):
 ```
 
 
-## Breaking lines:
+## 3 - Breaking lines:
 
-- Break 2 lines for classes, top level functions, logic sections, group of related functios
+3.1 - Break 2 lines for classes, top level functions, logic sections, group of related functios <br>
 
 ```python
 """
@@ -67,10 +67,10 @@ class Program:
 
 ```
 
-## Importing libraries:
+## 4 - Importing libraries:
 
-- Seperate import lines
-- Same line for same module
+4.1 - Seperate import lines <br>
+4.2 - Same line for same module <br>
 
 ```python
 """
@@ -97,12 +97,12 @@ from fastapi import FastAPI, Depends, HTTPExecption
 
 ```
 
-## Comments:
+## 5 - Writing comments:
 
-- Comments should always be up to date with the projects
-- They should always be complete sentences
-- They should never contradict what the code does
-- They should always contain capitalized begnning (The identifiers case should not be altered in comments)
+5.1 - Comments should always be up to date with the projects <br>
+5.2 - They should always be complete sentences <br>
+5.3 - They should never contradict what the code does <br>
+5.4 - They should always contain capitalized begnning (The identifiers case should not be altered in comments) <br>
 
 ```python
 """
@@ -118,9 +118,9 @@ def find_longest_word(text):
     pass
 ```
 
-- Use inline comments sparingly
-- Use at least two spaces away from statement
-- Do not state the obvious
+5.5 - Use inline comments sparingly <br>
+5.6 - Use at least two spaces away from statement <br>
+5.7 - Do not state the obvious <br>
 
 ```python
 def send_email(email):
@@ -132,10 +132,10 @@ def send_email(email):
     return validate(email)  # Using this method may affect performance
 ```
 
-## Naming conventions:
+## 6 - Naming conventions:
 
-- Names to avoid: "I", "l", "o" - because in some fonts it's indistinguishable from numbers like "1" and "0"
-- Modules and packages are all lowercase, but if it improves readability, use underscore
+- 6.1 - Names to avoid: "I", "l", "o" - because in some fonts it's indistinguishable from numbers like "1" and "0" <br>
+- 6.2 - Modules and packages are all lowercase, but if it improves readability, use underscore <br>
 
 ```python
 import pandas as pd
@@ -143,8 +143,8 @@ import pandas as pd
 from website.email_validations import validate_spam_email
 ```
 
-- Class names and Exception names are "CamelCase" (Words with the fist letters capitalized)
-- Funtions and variables should be all lowercase with underscores
+- 6.3 - Class names and Exception names are "CamelCase" (Words with the fist letters capitalized) <br>
+- 6.4 Funtions and variables should be all lowercase with underscores <br>
 
 ```python
 from webscrapping import LoginValidation
@@ -168,8 +168,8 @@ class TelegramBot():
     # Rest of the class code
 
 ```
-- Always use self and cls as first arguments for instance and class methods
-- If an argument or variable name clashes with reserved keywords, use a synonym or single trailing underscore
+- 6.5 - Always use self and cls as first arguments for instance and class methods <br>
+- 6.6 - If an argument or variable name clashes with reserved keywords, use a synonym or single trailing underscore <br>
 
 
 ```python
@@ -200,7 +200,7 @@ print(MyClass.increment_class_variable())
 print(MyClass.increment_class_variable())
 
 ```
-- Private and protected names should have underscores
+- 6.7 - Private and protected names should have underscores <br>
 
 ```python
 class Login:
@@ -210,7 +210,7 @@ class Login:
         _login = login
 ```
 
-- Constants are all capital letters with words seperated by underscores
+- 6.8 - Constants are all capital letters with words seperated by underscores <br>
 
 ```python
 PROGRAM_VERSION = '1.0.2'
@@ -218,9 +218,9 @@ PORT_NUMBER = 8080
 PI = 3.141
 ```
 
-## General conventions:
+## 7 - General conventions:
 
-- Use variables directly in if statements whenever possible
+- 7.1 - Use variables directly in if statements whenever possible <br>
 
 ```python
 # Good 
@@ -245,7 +245,7 @@ if x is not None:
     pass
 ```
 
-- Return the result right away
+- 7.2 - Return the result right away <br>
 
 ```python
 # Good 
@@ -257,3 +257,32 @@ def add(x, y):
     result = x = y
     return result
 ```
+
+- 7.3 - It's important to distinguish which files only contains classes and functions from the executable ones <br>
+- 7.4 - This distinguishment can be acomplished with an if statement <br>
+
+```python
+from fastapi import FastAPI, HTTPException, Depends
+
+
+app = FastAPI(title='User API', description='API to manipulate users')
+
+
+if __name__ == '__main__':
+    uvicorn.run(app, host='0.0.0.0', port=8000)
+```
+
+```python
+
+class User:
+
+    def login(self):
+        pass
+
+
+    def logout(self):
+        pass
+
+```
+
+
