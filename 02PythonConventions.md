@@ -64,7 +64,6 @@ class Program:
 
     def finish(self):
         pass
-
 ```
 
 ## 4 - Importing libraries:
@@ -92,9 +91,7 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 from fastapi import FastAPI, Depends, HTTPExecption  
 
-
 # Code
-
 ```
 
 ## 5 - Writing comments:
@@ -150,7 +147,6 @@ from website.email_validations import validate_spam_email
 from webscrapping import LoginValidation
 from exceptions.erros import LoginError
 
-
 class TelegramBot():
 
     # Rest of the class code
@@ -166,7 +162,6 @@ class TelegramBot():
 
 
     # Rest of the class code
-
 ```
 - 6.5 - Always use self and cls as first arguments for instance and class methods <br>
 - 6.6 - If an argument or variable name clashes with reserved keywords, use a synonym or single trailing underscore <br>
@@ -264,7 +259,6 @@ def add(x, y):
 ```python
 from fastapi import FastAPI, HTTPException, Depends
 
-
 app = FastAPI(title='User API', description='API to manipulate users')
 
 
@@ -273,7 +267,6 @@ if __name__ == '__main__':
 ```
 
 ```python
-
 class User:
 
     def login(self):
@@ -282,5 +275,65 @@ class User:
 
     def logout(self):
         pass
+```
 
+## 8 - Writing classes and functions:
+
+8.1 - Never make classes too big <br>
+8.2 - Always try to break classes down to avoid density <br>
+8.3 - For example, ff the class Person becomes to big, the address could become the class Address somewhere else <br>
+8.4 - Classes should be behavior focused (cluster of funtions) or data focused (structured information) <br>
+
+```python
+class Calculator:
+
+    @staticmethod
+    def add(a, b):
+        return a + b
+
+
+    @staticmethod
+    def subtract(a, b):
+        return a - b
+
+
+    @staticmethod
+    def multiply(a, b):
+        return a * b
+
+
+    @staticmethod
+    def divide(a, b):
+        if b == 0:
+            raise ValueError("Cannot divide by zero")
+        return a / b
+```
+
+```python
+class Person:
+
+    def __init__(self, name, age, address):
+        self.name = name
+        self.age = age
+        self.address = address
+
+
+    def __str__(self):
+        return f"Person(name={self.name}, age={self.age}, address={self.address})"
+
+
+    def update_address(self, new_address):
+        self.address = new_address
+```
+
+```python
+from dataclasses import dataclass
+
+@dataclass
+class Book:
+    title: str
+    author: str
+    
+    def __str__(self):
+        return f"Book(title={self.title}, author={self.author}"
 ```
