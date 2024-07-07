@@ -4,28 +4,30 @@
 <span style="text-decoration: line-through; display: block; width: 100%;">
 1 - Python Coding Conventions You Really Should Follow: https://www.youtube.com/watch?v=U2vDWc5sce0
 </span>
-
 2 - Uncle Bob’s SOLID Principles Made Easy - In Python! = https://www.youtube.com/watch?v=pTB30aXS77<br>
 3 - Data Structures For Python Developers (w/ Flask) - Course: https://www.youtube.com/watch?v=74NW-84BqbA<br>
 4 - Object Oriented Programming with Python - Full Course for Beginners: https://www.youtube.com/watch?v=Ej_02ICOIgs<br>
 5 - (Course) Programação Concorrente e Assíncrona com Python<br>
-6 - 40 Windows Commands you NEED to know - https://www.youtube.com/watch?v=Jfvg3CS1X3A<br>
 7 - Dependency INVERSION vs Dependency INJECTION in Python = https://www.youtube.com/watch?v=2ejbLVkCndI<br>
 8 - SQLite Databases With Python - Full Course = https://www.youtube.com/watch?v=byHcYRpMgI4&t=3s<br>
-9 - Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex): https://www.youtube.com/watch?v=K8L6KVGG-7o <br>
+12 - Make Your Python Code More Professional = https://www.youtube.com/watch?v=PDqy1HoA3QM <br>
 10 - Python Generators Explained: https://www.youtube.com/watch?v=u3T7hmLthUU<br>
 11 - PLEASE Use These 5 Python Decorators: https://www.youtube.com/watch?v=JgxCY-tbWHA<br>
-12 - Make Your Python Code More Professional = https://www.youtube.com/watch?v=PDqy1HoA3QM <br>
 13 - (PLAYLIST) Clean Architecture Python (Remake) - 1 Introdução = https://www.youtube.com/watch?v=2nvbgwFE_0Y&list=PLAgbpJQADBGK0opZ8ZuDX3zDjQck_QKMy&index=1<br>
-14 - 30 Windows Commands you CAN’T live without - https://www.youtube.com/watch?v=prVHU1fLR20<br>
 15 - (Course) Padrões de Projeto (Design Patterns) com Python<br>
+15.1 - 5 Useful F-String Tricks In Python: https://www.youtube.com/watch?v=EoNOWVYKyo0
+6 - 40 Windows Commands you NEED to know - https://www.youtube.com/watch?v=Jfvg3CS1X3A<br>
+14 - 30 Windows Commands you CAN’T live without - https://www.youtube.com/watch?v=prVHU1fLR20<br>
 16 - Pytest Tutorial – How to Test Python Code: https://www.youtube.com/watch?v=cHYq1MRoyI0&t=4s<br>
 17 - Tutorial Git Para Profissionais: https://www.youtube.com/watch?v=Uszj_k0DGsg<br>
 18 - 10 Python Comprehensions You SHOULD Be Using: https://www.youtube.com/watch?v=twxE0dEp3qQ<br>
 19 - Linked Lists for Technical Interviews - Full Course: https://www.youtube.com/watch?v=Hj_rA0dhr2I<br>
+9 - Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex): https://www.youtube.com/watch?v=K8L6KVGG-7o <br>
 20 - Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more - https://www.youtube.com/watch?v=qsTthZi23VE<br>
 21 - 10 Python Shortcuts You Need To Know: https://www.youtube.com/watch?v=CssrFJGH_dU<br>
+21.1 - All 39 Python Keywords Explained: https://www.youtube.com/watch?v=rKk8XPLysj8<br>
 22 - Git Branches Tutorial - https://www.youtube.com/watch?v=e2IbNHi4uCI<br>
+22.1 - 5 Uncommon Python Features I Love: https://www.youtube.com/watch?v=sQ1Q96-Vhjk
 23 - Greedy Algorithms Tutorial – Solve Coding Challenges: https://www.youtube.com/watch?v=bC7o8P_Ste4<br>
 24 - Learn HTML & CSS – Full Course for Beginners: https://www.youtube.com/watch?v=a_iQb1lnAEQ<br>
 25 - Portfolio Website Tutorial – Frontend Development with HTML, CSS, JavaScript: https://www.youtube.com/watch?v=xV7S8BhIeBo<br>
