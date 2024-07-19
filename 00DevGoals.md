@@ -5,8 +5,11 @@
 1 - Python Coding Conventions You Really Should Follow: https://www.youtube.com/watch?v=U2vDWc5sce0
 </span>
 
-<!-- Python Dev -->
+<span style="text-decoration: line-through; display: block; width: 100%;">
 2 - Uncle Bob’s SOLID Principles Made Easy - In Python! = https://www.youtube.com/watch?v=pTB30aXS77<br>
+</span>
+
+<!-- Python Dev -->
 3 - Learn HTML & CSS – Full Course for Beginners: https://www.youtube.com/watch?v=a_iQb1lnAEQ<br>
 4 - (Course) Programação Concorrente e Assíncrona com Python<br>
 5 - Dependency INVERSION vs Dependency INJECTION in Python = https://www.youtube.com/watch?v=2ejbLVkCndI<br>
@@ -31,20 +34,20 @@
 22 - (COURSE) Complete Vue Developer Bootcamp (Pinia, Vitest)<br>
 23 - Full HTTP Networking Course – Fetch and REST APIs in JavaScript: https://www.youtube.com/watch?v=2JYT5f2isg4<br>
 24 - (Course) PostgreSQL Bootcamp : Go From Beginner to Advanced, 60+hours<br>
-25 - Python API Development - Comprehensive Course for Beginners = https://www.youtube.com/watch?v=0sOvCWFmrtA&t=1s<br>
+25 - Computer Networking Tutorial - Bits and Bytes of the Networking [12 HOURS]: https://www.youtube.com/watch?v=PhjHXeMNpp8<br>
 26 - (Course) The Complete Python & PostgreSQL Developer Course<br>
-27 - Computer Networking Tutorial - Bits and Bytes of the Networking [12 HOURS]: https://www.youtube.com/watch?v=PhjHXeMNpp8<br>
 
 <!-- Dev Ops -->
-28 - Docker Tutorial for Beginners https://www.youtube.com/watch?v=fqMOX6JJhGo&list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&index=3<br>
-29 - 40 Windows Commands you NEED to know - https://www.youtube.com/watch?v=Jfvg3CS1X3A<br>
-30 - 30 Windows Commands you CAN’T live without - https://www.youtube.com/watch?v=prVHU1fLR20<br>
-31 - Tutorial Git Para Profissionais: https://www.youtube.com/watch?v=Uszj_k0DGsg<br>
-32 - Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more - https://www.youtube.com/watch?v=qsTthZi23VE<br>
-33 - Git Branches Tutorial - https://www.youtube.com/watch?v=e2IbNHi4uCI<br>
-34 - How to Undo Mistakes With Git Using the Command Line - https://www.youtube.com/watch?v=lX9hsdsAeTk<br>
-35 - Bash Scripting Tutorial for Beginners: https://www.youtube.com/watch?v=tK9Oc6AEnR4<br>
-36 - (Course) REST APIs with Flask and Python in 2024<br>
+27 - 40 Windows Commands you NEED to know - https://www.youtube.com/watch?v=Jfvg3CS1X3A<br>
+28 - 30 Windows Commands you CAN’T live without - https://www.youtube.com/watch?v=prVHU1fLR20<br>
+29 - Git Branches Tutorial - https://www.youtube.com/watch?v=e2IbNHi4uCI<br>
+30 - Docker Tutorial for Beginners https://www.youtube.com/watch?v=fqMOX6JJhGo&list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&index=3<br>
+31 - How to Undo Mistakes With Git Using the Command Line - https://www.youtube.com/watch?v=lX9hsdsAeTk<br>
+32 - Bash Scripting Tutorial for Beginners: https://www.youtube.com/watch?v=tK9Oc6AEnR4<br>
+33 - Tutorial Git Para Profissionais: https://www.youtube.com/watch?v=Uszj_k0DGsg<br>
+34 - Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more - https://www.youtube.com/watch?v=qsTthZi23VE<br>
+35 - (Course) REST APIs with Flask and Python in 2024<br>
+36 - Python API Development - Comprehensive Course for Beginners = https://www.youtube.com/watch?v=0sOvCWFmrtA&t=1s<br>
 
 <!-- Dev Puzzles -->
 37 - Linked Lists for Technical Interviews - Full Course: https://www.youtube.com/watch?v=Hj_rA0dhr2I<br>
@@ -56,13 +59,13 @@
 
 <!-- Web Dev Projects -->
 43 - Microservices with FastAPI – Full Course: https://www.youtube.com/watch?v=Cy9fAvsXGZA<br>
-50 - Python Microservices Web App (with React, Django, Flask) - Full Course: https://www.youtube.com/watch?v=0iB5IPoTDts<br>
+44 - Python Microservices Web App (with React, Django, Flask) - Full Course: https://www.youtube.com/watch?v=0iB5IPoTDts<br>
 45 - Node.js / Express Course - Build 4 Projects: https://www.youtube.com/watch?v=qwfE7fSVaZM<br>
-44 - (COURSE) Python and Django Full Stack Web Developer Bootcamp<br>
+46 - (COURSE) Python and Django Full Stack Web Developer Bootcamp<br>
 47 - CRUD API Tutorial – Node, Express, MongoDB: https://www.youtube.com/watch?v=_7UQPve99r4<br>
-46 - (Course) Web Developer Bootcamp with Flask and Python in 2024<br>
+48 - (Course) Web Developer Bootcamp with Flask and Python in 2024<br>
 49 - Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB): https://www.youtube.com/watch?v=nu_pCVPKzTk<br>
-48 - Django REST Framework Course – Build Web APIs with Python: https://www.youtube.com/watch?v=tujhGdn1EMI <br>
+50 - Django REST Framework Course – Build Web APIs with Python: https://www.youtube.com/watch?v=tujhGdn1EMI <br>
 51 - Beginner Web Dev Project Tutorial – Weather App with Next.js, Tailwind CSS, and TypeScript: https://www.youtube.com/watch?v=KkC_wYM_Co4<br>
 
 <!-- Go Dev -->
