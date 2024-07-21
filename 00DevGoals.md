@@ -9,7 +9,7 @@
 2 - Uncle Bob’s SOLID Principles Made Easy - In Python! = https://www.youtube.com/watch?v=pTB30aXS77<br>
 </span>
 
-<!-- Python Dev -->
+<!-- Python - C# Dev -->
 3 - Learn HTML & CSS – Full Course for Beginners: https://www.youtube.com/watch?v=a_iQb1lnAEQ<br>
 4 - (Course) Programação Concorrente e Assíncrona com Python<br>
 5 - Dependency INVERSION vs Dependency INJECTION in Python = https://www.youtube.com/watch?v=2ejbLVkCndI<br>
@@ -20,9 +20,11 @@
 10 - PLEASE Use These 5 Python Decorators: https://www.youtube.com/watch?v=JgxCY-tbWHA<br>
 11 - (PLAYLIST) Clean Architecture Python = https://www.youtube.com/watch?v=2nvbgwFE_0Y&list=PLAgbpJQADBGK0opZ8ZuDX3zDjQck_QKMy&index=1<br>
 12 - (Course) Padrões de Projeto (Design Patterns) com Python<br>
+12.1 - (Course) Ultimate C# Masterclass for 2024 <br>
 13 - 5 Uncommon Python Features I Love: https://www.youtube.com/watch?v=sQ1Q96-Vhjk
 14 - 10 Python Shortcuts You Need To Know: https://www.youtube.com/watch?v=CssrFJGH_dU<br>
 15 - Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex): https://www.youtube.com/watch?v=K8L6KVGG-7o <br>
+15.1 - (Course) C# - Aplicando Princípios SOLID na prática<br>
 16 - Magic Methods & Dunder - Advanced Python Tutorial #1 = https://www.youtube.com/watch?v=KSiRzuSx120&list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc<br>
 17 - (Playlist) Expert Python Tutorial https://www.youtube.com/watch?v=mclfteWlT2Q&list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP<br>
 
