@@ -6,11 +6,11 @@
 </span>
 
 1 - (COURSE) Ultimate C# Masterclass for 2024 <br>
+6 - Portfolio Website Tutorial – Frontend Development with HTML, CSS, JavaScript: https://www.youtube.com/watch?v=xV7S8BhIeBo<br>
 2 - (COURSE) C# - Aplicando Princípios SOLID na prática<br>
-3 - (PLAYLIST) Expert Python Tutorial https://www.youtube.com/watch?v=mclfteWlT2Q&list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP<br>
 4 - (PLAYLIST) Clean Architecture Python = https://www.youtube.com/watch?v=2nvbgwFE_0Y&list=PLAgbpJQADBGK0opZ8ZuDX3zDjQck_QKMy&index=1<br>
 5 - (COURSE) Padrões de Projeto (Design Patterns) com Python<br>
-6 - Portfolio Website Tutorial – Frontend Development with HTML, CSS, JavaScript: https://www.youtube.com/watch?v=xV7S8BhIeBo<br>
+3 - (PLAYLIST) Expert Python Tutorial https://www.youtube.com/watch?v=mclfteWlT2Q&list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP<br>
 7 - (COURSE) Curso de JavaScript e TypeScript do básico ao avançado JS/TS<br>
 8 - CRUD API Tutorial – Node, Express, MongoDB: https://www.youtube.com/watch?v=_7UQPve99r4<br>
 9 - Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB): https://www.youtube.com/watch?v=nu_pCVPKzTk<br>
