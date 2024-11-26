@@ -39,13 +39,10 @@ Python Coding Conventions You Really Should Follow: https://www.youtube.com/watc
 - Portfolio Website Tutorial: https://www.youtube.com/watch?v=xV7S8BhIeBo<br>
     Stack: HTML, CSS, JavaScript
 
-- Financial management system (Website):<br>
-    Stack: HTML, CSS, JavaScript, FastAPI, PostgreSQL
-
-- Turn FastAPI project into a whole website (Serasa):<br>
+- Movie List website:<br>
     Stack: FastAPI, HTML, CSS, JavaScript
 
-- Movie List website:<br>
+- Turn FastAPI project into a whole website (Serasa):<br>
     Stack: FastAPI, HTML, CSS, JavaScript
 
 - SQL translator:<br>
@@ -56,6 +53,9 @@ Python Coding Conventions You Really Should Follow: https://www.youtube.com/watc
     
 - Improve and review Django project (Pilar):<br>
     Stack: Django, HTML, CSS, JavaScript
+
+- Financial management system (Website):<br>
+    Stack: HTML, CSS, JavaScript, FastAPI, PostgreSQL
 
 - Code checker for pep8 and clean code:<br>
     Stack: Python
